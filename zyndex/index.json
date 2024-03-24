@@ -1,8 +1,32 @@
 {
   "name": "NEX",
-  "url": "https://a.nerotv.live/zyndex/index.json",
-  "owner": "Zyneon Studios",
+  "url": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+  "owner": "Zyneon",
   "instances": [
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.8.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.12.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.16.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.17.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.18.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.19.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.20.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/dynamic.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/vr.json"
+  ],
+  "upcoming": [
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/argria2.json",
 
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/primal.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/primal-lite.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/primal3.json",
+
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz2.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3-test.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3-zyneon.json",
+
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp-lite.json"
   ]
 }
