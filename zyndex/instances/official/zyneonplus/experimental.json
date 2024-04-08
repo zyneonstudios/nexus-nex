@@ -1,0 +1,30 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon",
+      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Zyneon+ Experimental",
+      "version": "2024.4.1-preview.1"
+    },
+    "meta": {
+      "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/experimental.zip",
+      "isHidden": false,
+      "id": "official/zyneonplus/experimental",
+      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/experimental.json",
+      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "tags": [
+        "minecraft-1.20.4",
+        "modloder-fabric",
+        "fabric-0.15.9"
+      ]
+    },
+    "resources": {
+      "thumbnail": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/experimental.png"
+    },
+    "versions": {
+      "fabric": "0.15.9",
+      "minecraft": "1.20.4"
+    }
+  },
+  "scheme": "2024.3"
+}
