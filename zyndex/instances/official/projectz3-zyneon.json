@@ -9,9 +9,9 @@
     "meta": {
       "download": "https://www.dropbox.com/scl/fi/naj4b7j6ukcwhgn3b7agp/test.zip?rlkey=dfb7k97uhepcs52mgefcby9vj&dl=1",
       "forgeType": "NEW",
-      "id": "official/projectz-zyneon",
+      "id": "official/projectz3-zyneon",
       "isHidden": true,
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz-zyneon.json",
+      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3-zyneon.json",
       "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
       "tags": [
         "minecraft-1.16.5",
