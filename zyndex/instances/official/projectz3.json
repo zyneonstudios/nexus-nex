@@ -1,19 +1,30 @@
 {
-  "modpack": {
-    "id": "official/projectz3",
-    "author": "Zyneon Studios",
-    "thumbnail": "https://i.ibb.co/KV97w8H/projectz3.png",
-    "name": "ProjectZ 3: Original",
-    "version": "2024.2.1",
-    "description": "If you can see that, something is wrong!",
-    "minecraft": "1.12.2",
-    "forge": {
-      "version": "14.23.5.2860",
-      "type": "NEW"
+  "instance": {
+    "info": {
+      "author": "Zyneon",
+      "description": "The first try to create Project'Z 3 from 2018/2019.",
+      "name": "Project'Z III (Original)",
+      "version": "2024.4"
     },
-    "download": "https://www.dropbox.com/scl/fi/a5r0l5a1i5yfvnhgru3o7/normal.zip?rlkey=jrl2h5iu9h5i08ggy3db6n5dy&dl=1",
-    "instance": "instances/official/projectz3/",
-    "hidden": "true"
+    "meta": {
+      "download": "https://www.dropbox.com/scl/fi/a5r0l5a1i5yfvnhgru3o7/normal.zip?rlkey=jrl2h5iu9h5i08ggy3db6n5dy&dl=1",
+      "forgeType": "NEW",
+      "id": "official/projectz3",
+      "isHidden": true,
+      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3.json",
+      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "tags": [
+        "minecraft-1.12.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "thumbnail": "https://i.ibb.co/KV97w8H/projectz3.png"
+    },
+    "versions": {
+      "forge": "14.23.5.2860",
+      "minecraft": "1.12.2"
+    }
   },
-  "scheme": "2024.2"
+  "scheme": "2024.3"
 }
