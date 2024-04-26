@@ -8,11 +8,11 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "experimental_2024.4.7-beta.1"
+        "version": "experimental/2024.4.7-beta.1"
       },
       "meta": {
         "download": "https://github.com/danieldieeins/ZyneonApplicationContent/raw/main/i/ZyneonApplication-2024.4.6b.jar",
-        "id": "official/experimental",
+        "id": "experimental",
         "isHidden": false
       }
     },
@@ -21,11 +21,11 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "stable_2024.4.6b"
+        "version": "stable/2024.4.6b"
       },
       "meta": {
         "download": "https://github.com/danieldieeins/ZyneonApplicationContent/raw/main/i/ZyneonApplication-2024.4.6b.jar",
-        "id": "official/stable",
+        "id": "stable",
         "isHidden": false
       }
     }
