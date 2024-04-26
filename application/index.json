@@ -1,0 +1,9 @@
+{
+  "name": "NEXUS Application",
+  "url": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/index.json",
+  "owner": "Zyneon Studios, NEXUS Team",
+  "versions": [
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/experimental.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/stable.json"
+  ]
+}
