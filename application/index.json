@@ -8,7 +8,7 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "2024.4.7-beta.1"
+        "version": "2024.4.7-beta.1a"
       },
       "meta": {
         "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7.jar",
@@ -21,7 +21,7 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "2024.4.7"
+        "version": "2024.4.7a"
       },
       "meta": {
         "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7.jar",
@@ -34,7 +34,7 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "2024.5-alpha.1"
+        "version": "2024.5-alpha.1a"
       },
       "meta": {
         "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.5-alpha.1.jar",
