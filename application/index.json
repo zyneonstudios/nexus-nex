@@ -8,11 +8,11 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "2024.4.7-beta.4"
+        "version": "2024.4.7"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7-beta.4.jar",
-        "id": "experimental",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7.jar",
+        "id": "stable",
         "isHidden": false
       }
     },
@@ -21,11 +21,11 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application",
-        "version": "2024.4.7-beta.4"
+        "version": "2024.4.7"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7-beta.4.jar",
-        "id": "stable",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.4.7.jar",
+        "id": "experimental",
         "isHidden": false
       }
     },
