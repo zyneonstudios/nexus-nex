@@ -23,6 +23,7 @@
     "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3-test.json",
     "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3-zyneon.json",
     "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp.json",
-    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp-lite.json"
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp-lite.json",
+    "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/slemm.json"
   ]
 }
