@@ -8,7 +8,7 @@
     },
     "meta": {
       "download": "nein",
-      "id": "apidonothing",
+      "id": "slemm",
       "isHidden": true,
       "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/slemm.json",
       "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
@@ -20,7 +20,7 @@
       "thumbnail": "https://mineblocks.com/1/wiki/images/archive/c/cc/20220102011405%21Barrier.png"
     },
     "versions": {
-      "minecraft": "1.20.6"
+      "minecraft": "69.420"
     }
   },
   "scheme": "2024.3"
