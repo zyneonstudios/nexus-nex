@@ -11,8 +11,8 @@
       "forgeType": "OLD",
       "isHidden": true,
       "id": "official/zyneonplus/1.8",
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.8.json",
-      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.8.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.8.9",
         "modloder-forge",

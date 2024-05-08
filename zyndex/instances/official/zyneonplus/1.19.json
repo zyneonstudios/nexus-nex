@@ -10,8 +10,8 @@
       "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.19.zip",
       "isHidden": false,
       "id": "official/zyneonplus/1.19",
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/zyneonplus/1.19.json",
-      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.19.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.19.4",
         "modloder-fabric"

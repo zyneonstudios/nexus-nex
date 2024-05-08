@@ -11,8 +11,8 @@
       "forgeType": "NEW",
       "id": "official/projectz3",
       "isHidden": true,
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/projectz3.json",
-      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.12.2",
         "modloder-forge"

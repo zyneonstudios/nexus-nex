@@ -11,8 +11,8 @@
       "forgeType": "NEW",
       "id": "official/primal",
       "isHidden": true,
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/primal.json",
-      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.18.2",
         "modloder-forge"

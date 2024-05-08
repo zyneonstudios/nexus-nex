@@ -11,8 +11,8 @@
       "forgeType": "NEW",
       "id": "official/ukzp-lite",
       "isHidden": false,
-      "location": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/instances/official/ukzp-lite.json",
-      "origin": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/zyndex/index.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.18.2",
         "modloder-forge"
