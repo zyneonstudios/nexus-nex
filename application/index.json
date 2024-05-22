@@ -7,7 +7,7 @@
       "info": {
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
-        "name": "NEXUS Application",
+        "name": "NEXUS Application, Stable",
         "version": "2024.4.7"
       },
       "meta": {
@@ -20,7 +20,7 @@
       "info": {
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
-        "name": "NEXUS Application",
+        "name": "NEXUS Application, Experimental",
         "version": "2024.E.0"
       },
       "meta": {
@@ -33,7 +33,7 @@
       "info": {
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
-        "name": "NEXUS Application",
+        "name": "NEXUS Application, Shervann",
         "version": "2024.5-alpha.8-fix.1"
       },
       "meta": {
