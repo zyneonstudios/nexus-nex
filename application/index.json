@@ -34,10 +34,10 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Shervann",
-        "version": "2024.5-alpha.11"
+        "version": "2024.5-alpha.12"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.5-alpha.11.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.5-alpha.12.jar",
         "id": "shervann",
         "isHidden": false
       }
