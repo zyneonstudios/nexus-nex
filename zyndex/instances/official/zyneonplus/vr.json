@@ -4,7 +4,7 @@
       "author": "Zyneon",
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Latest VR",
-      "version": "2024.5 VR"
+      "version": "2024.6f VR"
     },
     "meta": {
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/pack/vr.zip",
@@ -13,7 +13,7 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.20.4",
+        "minecraft-1.21",
         "modloder-fabric",
         "fabric-0.15.11",
         "zyneonplus",
@@ -25,7 +25,7 @@
     },
     "versions": {
       "fabric": "0.15.11",
-      "minecraft": "1.20.4"
+      "minecraft": "1.21"
     }
   },
   "scheme": "2024.3"
