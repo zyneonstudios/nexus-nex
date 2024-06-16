@@ -8,7 +8,7 @@
     },
     "meta": {
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/pack/1.21.zip",
-      "isHidden": true,
+      "isHidden": false,
       "id": "official/zyneonplus/1.21",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.21.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
