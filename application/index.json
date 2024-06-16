@@ -8,10 +8,10 @@
         "author": "Zyneon Studios, NEXUS Team",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2024.5"
+        "version": "2024.6"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.5.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.6.jar",
         "id": "stable",
         "isHidden": false
       }
@@ -24,7 +24,7 @@
         "version": "2024.E.0"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.E.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.6.jar",
         "id": "experimental",
         "isHidden": false
       }
