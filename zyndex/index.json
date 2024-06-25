@@ -28,6 +28,6 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
   ],
   "modules": [
-
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json"
   ]
 }
