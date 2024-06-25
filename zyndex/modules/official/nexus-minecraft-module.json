@@ -1,0 +1,30 @@
+{
+  "module": {
+    "info": {
+      "author": "Zyneon Studios, Team NEXUS",
+      "description": "Create, install and manage Minecraft instances. This module is an unofficial 3rd party Minecraft Launcher with inbuilt modloader, Modrinth and CurseForge support!",
+      "name": "Minecraft",
+      "version": "2024.7-beta.2"
+    },
+    "meta": {
+      "download": "no url",
+      "id": "nexus-minecraft-module",
+      "isHidden": false,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft",
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt",
+        "modrinth",
+        "curseforge"
+      ]
+    },
+    "resources": {
+      "thumbnail": "https://i.ibb.co/TL20wk4/argria2.png"
+    }
+  },
+  "scheme": "2024.3"
+}
