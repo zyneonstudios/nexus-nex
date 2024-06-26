@@ -13,7 +13,7 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "changelogs": [
-        "<h2>2024.7-beta.3</h2><h3>This preview version adds the module to the official module page.</h3><h3>Additions:<br>+ Back to select button (Login screen)</h3><h3>Bugfixes:<br>• Fix login screen loop</h3>"
+        "<h2>2024.7-beta.3</h2><h3>This preview version adds the module to the official module page.</h3><br><h3>Additions:<br>+ Back to select button (Login screen)</h3><br><h3>Bugfixes:<br>• Fix login screen loop</h3>"
       ],
       "versions": [],
       "tags": [
