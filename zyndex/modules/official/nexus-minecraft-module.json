@@ -1,7 +1,7 @@
 {
   "module": {
     "info": {
-      "authors": "Zyneon Studios, Team NEXUS",
+      "authors": "Zyneon Studios, Zyneon Nexus, Schleimer",
       "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
       "version": "2024.7-beta.3"
@@ -29,7 +29,7 @@
       ]
     },
     "resources": {
-      "thumbnail": "file:///home/nerotvlive/Downloads/15030995-forest-grass-block_l.webp",
+      "thumbnail": "https://i.ibb.co/DDXJLmR/15030995-forest-grass-block-l.webp",
       "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Plains_Grass_Block.png",
       "logo": "https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-06-image14-3.png",
       "background": "https://i.ibb.co/bvT1wZ3/background.png"
