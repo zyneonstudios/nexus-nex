@@ -2,7 +2,7 @@
   "module": {
     "info": {
       "author": "Zyneon Studios, Team NEXUS",
-      "description": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
+      "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
       "version": "2024.7-beta.2"
     },
