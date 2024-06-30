@@ -4,7 +4,7 @@
       "author": "Zyneon",
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ 1.17.1",
-      "version": "2024.3"
+      "version": "2024.6"
     },
     "meta": {
       "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.17.zip",
@@ -18,6 +18,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/89dwdhc/1-17.webp",
+      "icon": "https://i.ibb.co/NCmwTY4/dynamic.png",
+      "logo": "https://i.ibb.co/dQ29ffY/1-21-logo.png",
       "thumbnail": "https://i.ibb.co/VQRVRrn/1-17.png"
     },
     "versions": {

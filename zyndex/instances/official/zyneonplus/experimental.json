@@ -4,7 +4,7 @@
       "author": "Zyneon",
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Experimental",
-      "version": "2024.6.1"
+      "version": "2024.6.2"
     },
     "meta": {
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/pack/1.21.zip",
@@ -21,6 +21,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/QH1YYPP/1-21.webp",
+      "icon": "https://i.ibb.co/mB5RNc5/experimental.png",
+      "logo": "https://i.ibb.co/dQ29ffY/1-21-logo.png",
       "thumbnail": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.png"
     },
     "versions": {
