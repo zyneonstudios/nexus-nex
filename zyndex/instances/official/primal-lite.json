@@ -19,6 +19,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/Wy05fKH/primal.webp",
+      "icon": "https://i.ibb.co/807Svhd/primal-lite.png",
+      "logo": "https://i.ibb.co/c8xj25t/primal-lite-logo.png",
       "thumbnail": "https://i.ibb.co/xHzJZkg/primal-lite.png"
     },
     "versions": {

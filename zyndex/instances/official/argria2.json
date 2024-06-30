@@ -19,6 +19,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/w0ghmRy/argria2.webp",
+      "icon": "https://i.ibb.co/t3M4m9W/argria2.png",
+      "logo": "https://i.ibb.co/zGwCL15/argria2-logo.png",
       "thumbnail": "https://i.ibb.co/TL20wk4/argria2.png"
     },
     "versions": {

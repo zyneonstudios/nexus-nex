@@ -19,6 +19,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/7W23k3M/ukzp-lite.webp",
+      "icon": "https://i.ibb.co/YTq61wN/ukzp-lite.png",
+      "logo": "https://i.ibb.co/Wz7ZW9K/ukzp-lite-logo.png",
       "thumbnail": "https://i.ibb.co/Scrsj2H/ukzp-lite.png"
     },
     "versions": {

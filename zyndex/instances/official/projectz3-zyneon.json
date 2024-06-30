@@ -19,6 +19,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/dpgx7m3/projectz3-zyneon.webp",
+      "icon": "https://i.ibb.co/12Ng0cB/projectz3-zyneon.png",
+      "logo": "https://i.ibb.co/mBxrbjW/projectz3-zyneon-logo.png",
       "thumbnail": "https://i.ibb.co/JKfP9FQ/projectz3-zyneon.png"
     },
     "versions": {

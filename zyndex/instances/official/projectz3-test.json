@@ -19,6 +19,9 @@
       ]
     },
     "resources": {
+      "background": "https://i.ibb.co/sbFDxgS/projectz3-test.webp",
+      "icon": "https://i.ibb.co/Yp0S5KQ/projectz3-test.png",
+      "logo": "https://i.ibb.co/jLcdqp2/projectz3-test-logo.png",
       "thumbnail": "https://i.ibb.co/v4Pyc8v/projectz3-test.png"
     },
     "versions": {
