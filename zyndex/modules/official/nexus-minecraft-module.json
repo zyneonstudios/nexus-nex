@@ -4,10 +4,10 @@
       "authors": "Zyneon Studios, Zyneon Nexus",
       "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
-      "version": "2024.7-beta.5"
+      "version": "2024.7-beta.4 (preview)"
     },
     "meta": {
-      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/2024.7-beta.5.jar",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/2024.7-beta.4.jar",
       "id": "nexus-minecraft-module",
       "isHidden": false,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
@@ -17,7 +17,6 @@
         "<h3 style='color: var(--highlight)'>2024.7-beta.3</h3><p>This preview version adds the module to the official module page.</p><br><p>Additions:<br>+ Back to select button (Login screen)</p><br><p>Bugfixes:<br>• Fix login screen loop</p>"
       ],
       "versions": [
-        "2024.7-beta.5",
         "2024.7-beta.4",
         "2024.7-beta.3",
         "2024.7-beta.2"
