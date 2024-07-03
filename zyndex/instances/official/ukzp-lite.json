@@ -1,15 +1,21 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon",
+      "author": "Zyneon Studios",
+      "authors": [
+        "Zyneon Studios"
+      ],
       "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
       "name": "UKZP (Lite)",
+      "summary": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
       "version": "2024.6"
     },
     "meta": {
+      "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
       "download": "https://www.dropbox.com/scl/fi/3wy6h81ds0h6kcigjfd6n/lite.zip?rlkey=m0n1pptir4ljb8c6i78va132i&dl=1",
       "forgeType": "NEW",
       "id": "official/ukzp-lite",
+      "isEditable": false,
       "isHidden": false,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
@@ -29,5 +35,5 @@
       "minecraft": "1.18.2"
     }
   },
-  "scheme": "2024.3"
+  "scheme": "2024.7"
 }

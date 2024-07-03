@@ -1,15 +1,21 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon",
+      "author": "Zyneon Studios",
+      "authors": [
+        "Zyneon Studios"
+      ],
       "description": "If you can see that, something is wrong!",
       "name": "Primal",
-      "version": "2024.6-beta.1"
+      "summary": "If you can see that, something is wrong!",
+      "version": "2024.7-beta.1"
     },
     "meta": {
+      "description": "If you can see that, something is wrong!",
       "download": "https://www.dropbox.com/scl/fi/mmda4i0hdlhbydwn3xfea/normal.zip?rlkey=6c2br7izn055xcy0870oqpvtt&dl=1",
       "forgeType": "NEW",
       "id": "official/primal",
+      "isEditable": false,
       "isHidden": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
@@ -29,5 +35,5 @@
       "minecraft": "1.18.2"
     }
   },
-  "scheme": "2024.3"
+  "scheme": "2024.7"
 }
