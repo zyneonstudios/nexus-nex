@@ -7,20 +7,18 @@
       "version": "2024.7-beta.4"
     },
     "meta": {
-      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/2024.7-beta.4.jar",
-      "id": "nexus-minecraft-module",
-      "isHidden": false,
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
-      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "changelogs": [
         "<h3 style='color: var(--highlight)'>2024.7-beta.4</h3><p>No changelog yet</p>",
         "<h3 style='color: var(--highlight)'>2024.7-beta.3</h3><p>This preview version adds the module to the official module page.</p><br><p>Additions:<br>+ Back to select button (Login screen)</p><br><p>Bugfixes:<br>• Fix login screen loop</p>"
       ],
-      "versions": [
-        "2024.7-beta.4",
-        "2024.7-beta.3",
-        "2024.7-beta.2"
-      ],
+      "description": "",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/2024.7-beta.4.jar",
+      "id": "nexus-minecraft-module",
+      "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
+      "infoText": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
+      "isHidden": false,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft",
         "fabric",
@@ -29,18 +27,19 @@
         "quilt",
         "modrinth",
         "curseforge"
+      ],
+      "versions": [
+        "2024.7-beta.4 (latest)",
+        "2024.7-beta.3",
+        "2024.7-beta.2"
       ]
     },
     "resources": {
-      "thumbnail": "https://i.ibb.co/DDXJLmR/15030995-forest-grass-block-l.webp",
+      "background": "https://i.ibb.co/bvT1wZ3/background.png",
       "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Plains_Grass_Block.png",
       "logo": "https://i.ibb.co/whsHvHF/napp.png",
-      "background": "https://i.ibb.co/bvT1wZ3/background.png"
-    },
-    "style": {
-      "info": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
-      "card": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>"
+      "thumbnail": "https://i.ibb.co/DDXJLmR/15030995-forest-grass-block-l.webp"
     }
   },
-  "scheme": "2024.6"
+  "scheme": "2024.7"
 }
