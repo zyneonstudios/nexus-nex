@@ -1,11 +1,13 @@
 {
   "instance": {
     "info": {
+      "author": "Zyneon Studios",
       "authors": [
         "Zyneon Studios"
       ],
       "name": "Argria II",
       "summary": "If you can see that, something is wrong!",
+      "description": "If you can see that, something is wrong!",
       "version": "2024.6-beta.1"
     },
     "meta": {
