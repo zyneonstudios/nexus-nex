@@ -1,13 +1,19 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon",
+      "author": "Zyneon Studios",
+      "authors": [
+        "Zyneon Studios"
+      ],
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Latest",
-      "version": "2024.6.2"
+      "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "2024.7"
     },
     "meta": {
+      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/pack/1.21.zip",
+      "isEditable": true,
       "isHidden": false,
       "id": "official/zyneonplus/dynamic",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
@@ -31,5 +37,5 @@
       "minecraft": "1.21"
     }
   },
-  "scheme": "2024.3"
+  "scheme": "2024.7"
 }
