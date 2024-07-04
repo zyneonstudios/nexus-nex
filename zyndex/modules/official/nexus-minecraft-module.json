@@ -11,7 +11,7 @@
     },
     "meta": {
       "changelogs": [
-        "<h3 style='color: var(--highlight)'>2024.7-beta.4</h3><p>No changelog yet...</p>",
+        "<h3 style='color: var(--highlight)'>2024.7-beta.4</h3><p>This preview versions adds the instance search to discover.</p><br><p>Additions:<br>+ Discover search<br>+ Instance view launch button<br>+ Details for Discover search</p><br>",
         "<h3 style='color: var(--highlight)'>2024.7-beta.3</h3><p>This preview version adds the module to the official module page.</p><br><p>Additions:<br>+ Back to select button (Login screen)</p><br><p>Bugfixes:<br>• Fix login screen loop</p>"
       ],
       "description": "",
