@@ -14,9 +14,9 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://www.dropbox.com/s/diqps9jduit0gal/zyneonplus-L1.1-MC1.8.9.zip?dl=1",
       "forgeType": "OLD",
+      "id": "official/zyneonplus/1.8",
       "isEditable": true,
       "isHidden": false,
-      "id": "official/zyneonplus/1.8",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.8.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
