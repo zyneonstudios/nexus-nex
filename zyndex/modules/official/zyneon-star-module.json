@@ -22,6 +22,12 @@
       "versions": [
         "2024.7-beta.4 (latest)"
       ]
+    },
+    "resources": {
+      "background": "https://i.ibb.co/3pZ8Wfm/background.webp",
+      "icon": "https://i.ibb.co/Cz8QZVR/icon.webp",
+      "logo": "https://i.ibb.co/8dj5Fkc/star-logo.webp",
+      "thumbnail": "https://i.ibb.co/nLkr6P8/star-thumbnail.png"
     }
   },
   "scheme": "2024.7"
