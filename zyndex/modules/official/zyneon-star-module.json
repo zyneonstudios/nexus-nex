@@ -6,7 +6,7 @@
       ],
       "summary": "View, post and manage Zyneon Star your way!",
       "name": "Star",
-      "version": "2024.7-beta.4"
+      "version": "2024.7-beta.5"
     },
     "meta": {
       "changelogs": [],
@@ -22,7 +22,7 @@
         "tools"
       ],
       "versions": [
-        "2024.7-beta.4 (latest)"
+        "2024.7-beta.5 (latest)"
       ]
     },
     "resources": {
