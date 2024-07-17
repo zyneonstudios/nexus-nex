@@ -14,6 +14,8 @@
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module/2024.7-beta.4.jar",
       "id": "zyneon-star-module",
       "isHidden": false,
+      "infoCard": "<h3 style='color: var(--highlight)'>Warning</h3><p>Zyneon Star is still in alpha - this module is in beta. Please report any issues. (The images are placeholders)</p>",
+      "infoText": "<a onclick='connector(\\'open.url.https://star.zyneonstudios.com\\')'>Zyneon Star</a>",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
