@@ -1,11 +1,11 @@
 {
   "name": "NEXUS Application",
   "url": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/index.json",
-  "owner": "Zyneon Studios, NEXUS Team",
+  "owner": "Zyneon Studios, Zyneon Nexus",
   "versions": [
     {
       "info": {
-        "author": "Zyneon Studios, NEXUS Team",
+        "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
         "version": "2024.7.1f"
@@ -18,7 +18,7 @@
     },
     {
       "info": {
-        "author": "Zyneon Studios, NEXUS Team",
+        "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
         "version": "2024.7.2-beta.1"
