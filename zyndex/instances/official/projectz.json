@@ -8,11 +8,11 @@
       "description": "Try out the newest modpack by Zyneon Studios!",
       "name": "Project'Z",
       "summary": "Try out the newest modpack by Zyneon Studios!",
-      "version": "2024.7-beta.1"
+      "version": "2024.7-beta.2"
     },
     "meta": {
       "description": "Try out the newest modpack by Zyneon Studios!",
-      "download": "https://www.dropbox.com/scl/fi/ab1okol4le7fvrefjlm59/projectz-normal.zip?rlkey=5dpy48tnc62s11peu9v4t84yj&dl=1",
+      "download": "https://cdn.nerofy.de/zyneon/6c949bc6-944d-41c2-89f5-7ea7f73c27bb/f6d036f4-f354-44f8-bff3-21d3925b177e",
       "forgeType": "NEW",
       "id": "official/projectz",
       "isEditable": false,
