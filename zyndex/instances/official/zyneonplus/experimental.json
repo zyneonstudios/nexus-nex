@@ -8,7 +8,7 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Experimental",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.8.1"
+      "version": "2024.8.1f"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
@@ -21,7 +21,7 @@
       "tags": [
         "minecraft-1.21.1",
         "modloder-fabric",
-        "fabric-0.16.0",
+        "fabric-0.16.2",
         "zyneonplus",
         "optimization"
       ]
@@ -33,7 +33,7 @@
       "thumbnail": "https://i.ibb.co/mB5RNc5/experimental.png"
     },
     "versions": {
-      "fabric": "0.16.0",
+      "fabric": "0.16.2",
       "minecraft": "1.21.1"
     }
   },
