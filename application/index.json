@@ -21,10 +21,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2024.9-beta.1"
+        "version": "2024.9-beta.2"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.9-beta.1.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.9-beta.2.jar",
         "id": "experimental",
         "isHidden": false
       }
