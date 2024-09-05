@@ -13,7 +13,7 @@
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/pack/vr.zip",
-      "isEditable": true,
+      "isEditable": false,
       "isHidden": false,
       "id": "official/zyneonplus/vr",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",

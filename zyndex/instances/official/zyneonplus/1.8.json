@@ -15,7 +15,7 @@
       "download": "https://www.dropbox.com/s/diqps9jduit0gal/zyneonplus-L1.1-MC1.8.9.zip?dl=1",
       "forgeType": "OLD",
       "id": "official/zyneonplus/1.8",
-      "isEditable": true,
+      "isEditable": false,
       "isHidden": false,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.8.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
