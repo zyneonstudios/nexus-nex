@@ -25,10 +25,10 @@
       ]
     },
     "resources": {
-      "background": "https://i.ibb.co/Wy05fKH/primal.webp",
-      "icon": "https://i.ibb.co/807Svhd/primal-lite.png",
-      "logo": "https://i.ibb.co/c8xj25t/primal-lite-logo.png",
-      "thumbnail": "https://i.ibb.co/xHzJZkg/primal-lite.png"
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/thumbnail.webp"
     },
     "versions": {
       "forge": "40.2.17",

@@ -25,10 +25,10 @@
       ]
     },
     "resources": {
-      "background": "https://i.ibb.co/dpgx7m3/projectz3-zyneon.webp",
-      "icon": "https://i.ibb.co/12Ng0cB/projectz3-zyneon.png",
-      "logo": "https://i.ibb.co/mBxrbjW/projectz3-zyneon-logo.png",
-      "thumbnail": "https://i.ibb.co/JKfP9FQ/projectz3-zyneon.png"
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/thumbnail.webp"
     },
     "versions": {
       "forge": "36.2.41",
