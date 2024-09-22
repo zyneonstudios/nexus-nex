@@ -8,7 +8,7 @@
       "description": "The first version of the rebooted Project'Z originally planned as part three!",
       "name": "Project'Z III (Zyneon)",
       "summary": "The first version of the rebooted Project'Z originally planned as part three!",
-      "version": "2024.7"
+      "version": "2024.9"
     },
     "meta": {
       "description": "The first version of the rebooted Project'Z originally planned as part three!",
@@ -16,7 +16,8 @@
       "forgeType": "NEW",
       "id": "official/projectz3-zyneon",
       "isEditable": false,
-      "isHidden": true,
+      "isHidden": false,
+      "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [

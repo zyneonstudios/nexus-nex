@@ -8,7 +8,7 @@
       "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
       "name": "UKZP",
       "summary": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "version": "2024.7"
+      "version": "2024.9"
     },
     "meta": {
       "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
@@ -17,6 +17,7 @@
       "id": "official/ukzp",
       "isEditable": false,
       "isHidden": false,
+      "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
