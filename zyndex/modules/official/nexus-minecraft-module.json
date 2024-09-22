@@ -7,15 +7,12 @@
       ],
       "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
-      "version": "2024.9-beta.2f"
+      "version": "2024.9-beta.3"
     },
     "meta": {
-      "changelogs": [
-        "<h3 style='color: var(--highlight)'>2024.8-beta.1</h3><p>This preview versions adds the instance search to discover.</p><br><p>Additions:<br>+ Discover search<br>+ Instance view launch button<br>+ Details for Discover search</p><br>",
-        "<h3 style='color: var(--highlight)'>2024.7-beta.3</h3><p>This preview version adds the module to the official module page.</p><br><p>Additions:<br>+ Back to select button (Login screen)</p><br><p>Bugfixes:<br>• Fix login screen loop</p>"
-      ],
+      "changelogs": [],
       "description": "",
-      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/minecraft-java-addon-2024.9-beta.2.jar",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/minecraft-java-addon-2024.9-beta.3.jar",
       "id": "nexus-minecraft-module",
       "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
       "infoText": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
@@ -32,7 +29,7 @@
         "curseforge"
       ],
       "versions": [
-        "2024.9-beta.2 (latest)"
+        "2024.9-beta.3 (latest)"
       ]
     },
     "resources": {
