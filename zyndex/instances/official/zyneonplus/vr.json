@@ -8,7 +8,7 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Latest VR",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.9.1VR"
+      "version": "2024.9.1 (VR)"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
@@ -35,7 +35,7 @@
       "thumbnail": "https://i.ibb.co/Pgswfkm/vr.png"
     },
     "versions": {
-      "fabric": "0.16.0",
+      "fabric": "0.16.5",
       "minecraft": "1.21.1"
     }
   },
