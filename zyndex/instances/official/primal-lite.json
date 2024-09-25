@@ -8,11 +8,11 @@
       "description": "A magical modpack by Zyneon Studios. (for low end pc's)",
       "name": "Primal (LITE)",
       "summary": "A magical modpack by Zyneon Studios. (for low end pc's)",
-      "version": "2024.9"
+      "version": "2024.9.1"
     },
     "meta": {
-      "description": "If you can see that, something is wrong!",
-      "download": "https://www.dropbox.com/scl/fi/pfrqxdv0rx7a9flbhfhgm/lite.zip?rlkey=tp6swcs6xi0ml9xmpn536q2a0&dl=1",
+      "description": "A magical modpack by Zyneon Studios. Experience a world filled with new mobs, possibilities and fun! This version is optimized for low end pc's.",
+      "download": "https://cloud.nerofy.de/index.php/s/Tss9xYbyfQeAnJD/download",
       "forgeType": "NEW",
       "id": "official/primal-lite",
       "isEditable": false,
