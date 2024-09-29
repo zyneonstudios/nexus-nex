@@ -21,11 +21,24 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2024.9.1-prerelease.2"
+        "version": "2024.9.1-rc.1"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.9.1-prerelease.2.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.9.1-rc.1.jar",
         "id": "experimental",
+        "isHidden": false
+      }
+    },
+    {
+      "info": {
+        "author": "Zyneon Studios, Zyneon Nexus",
+        "description": "Old Zyneon Application",
+        "name": "Zyneon Application, Old",
+        "version": "2024.9"
+      },
+      "meta": {
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-old-2024.9.jar",
+        "id": "old",
         "isHidden": false
       }
     }
