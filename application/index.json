@@ -21,10 +21,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2024.9.1-rc.4"
+        "version": "2024.10.1"
       },
       "meta": {
-        "download": "https://maven.zyneonstudios.com/snapshots/com/zyneonstudios/nexus/application/2024.9.1-rc.4/application-2024.9.1-rc.4.jar",
+        "download": "https://maven.zyneonstudios.com/snapshots/com/zyneonstudios/nexus/application/2024.9.1-rc.4/application-2024.10.1.jar",
         "id": "experimental",
         "isHidden": false
       }
