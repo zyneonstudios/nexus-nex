@@ -24,7 +24,7 @@
         "version": "2024.10.1"
       },
       "meta": {
-        "download": "https://maven.zyneonstudios.com/snapshots/com/zyneonstudios/nexus/application/2024.9.1-rc.4/application-2024.10.1.jar",
+        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/application/2024.10.1/application-2024.10.1.jar",
         "id": "experimental",
         "isHidden": false
       }
