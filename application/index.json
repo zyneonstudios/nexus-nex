@@ -8,24 +8,11 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2024.9"
+        "version": "2024.10.4"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-old-2024.9.jar",
+        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/application/2024.10.4/application-2024.10.4.jar",
         "id": "stable",
-        "isHidden": false
-      }
-    },
-    {
-      "info": {
-        "author": "Zyneon Studios, Zyneon Nexus",
-        "description": "Zyneon Studios NEXUS Application",
-        "name": "NEXUS Application, Experimental",
-        "version": "2024.10.3"
-      },
-      "meta": {
-        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/application/2024.10.3/application-2024.10.3.jar",
-        "id": "experimental",
         "isHidden": false
       }
     },
@@ -34,10 +21,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Old Zyneon Application",
         "name": "Zyneon Application, Old",
-        "version": "2024.9"
+        "version": "2024.10-old.1"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-old-2024.9.jar",
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/versions/application-main-2024.10-old.1.jar",
         "id": "old",
         "isHidden": false
       }
