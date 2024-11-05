@@ -8,10 +8,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2024.11"
+        "version": "2024.11.1"
       },
       "meta": {
-        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/application/2024.11/application-2024.11.jar",
+        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/application/2024.11.1/application-2024.11.1.jar",
         "id": "stable",
         "isHidden": false
       }
