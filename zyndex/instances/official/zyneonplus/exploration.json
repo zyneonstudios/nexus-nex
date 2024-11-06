@@ -1,0 +1,41 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Studios",
+      "authors": [
+        "Zyneon Studios"
+      ],
+      "name": "Zyneon+ Exploration",
+      "summary": "An optimized and magic Minecraft Experience!",
+      "version": "2024.9.1F (Exploration)"
+    },
+    "meta": {
+      "description": "Zyneon+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
+      "download": "https://cloud.nerofy.de/index.php/s/nNeBmBifSqAt3tR/download",
+      "isEditable": false,
+      "isHidden": false,
+      "forceUpdates": true,
+      "id": "official/zyneonplus/exploration",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.21.1",
+        "modloder-fabric",
+        "fabric-0.16.5",
+        "zyneonplus",
+        "optimization"
+      ]
+    },
+    "resources": {
+      "background": "https://i.ibb.co/QH1YYPP/1-21.webp",
+      "icon": "https://i.ibb.co/NCmwTY4/dynamic.png",
+      "logo": "https://i.ibb.co/dQ29ffY/1-21-logo.png",
+      "thumbnail": "https://i.ibb.co/Y7MW6mh/zyneonplus-dynamic.png"
+    },
+    "versions": {
+      "fabric": "0.16.5",
+      "minecraft": "1.21.1"
+    }
+  },
+  "scheme": "2024.7"
+}
