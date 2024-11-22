@@ -5,14 +5,14 @@
       "authors": [
         "Zyneon Studios"
       ],
-      "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
+      "description": "UKZP: Space Flight Final Epic",
       "name": "UKZP",
-      "summary": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "version": "2024.9"
+      "summary": "UKZP: Space Flight Final Epic",
+      "version": "2024.11"
     },
     "meta": {
-      "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "download": "https://www.dropbox.com/scl/fi/rmvwmcydgws8bp7ykgzi6/normal.zip?rlkey=db50ytd4b990r2rjtrd8akcql&dl=1",
+      "description": "UKZP: Space Flight Final Epic",
+      "download": "https://cloud.nerofy.de/index.php/s/jFdDJTqSLSrPAEg/download",
       "forgeType": "NEW",
       "id": "official/ukzp",
       "isEditable": false,
