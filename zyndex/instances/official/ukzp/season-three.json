@@ -7,19 +7,19 @@
         "DerFantastico"
       ],
       "description": "UKZP: Space Flight Final Epic",
-      "name": "UKZP (Please update)",
+      "name": "UKZP: Season III",
       "summary": "UKZP: Space Flight Final Epic",
-      "version": "2024.11-redirect"
+      "version": "2024.11.3"
     },
     "meta": {
       "description": "UKZP: Space Flight Final Epic",
       "download": "https://cloud.nerofy.de/index.php/s/jFdDJTqSLSrPAEg/download",
       "forgeType": "NEW",
-      "id": "official/ukzp",
+      "id": "official/ukzp/season-three",
       "isEditable": false,
-      "isHidden": true,
+      "isHidden": false,
       "forceUpdates": true,
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.18.2",

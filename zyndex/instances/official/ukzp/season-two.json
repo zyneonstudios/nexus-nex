@@ -6,19 +6,19 @@
         "Zyneon Studios"
       ],
       "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "name": "UKZP (Please update)",
+      "name": "UKZP: Season II",
       "summary": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "version": "2024.11-redirect"
+      "version": "2024.11"
     },
     "meta": {
       "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
-      "download": "https://cloud.nerofy.de/index.php/s/qX6sqotaJTM2nk7/download",
+      "download": "https://cloud.nerofy.de/index.php/s/bFbHr5YCQ38wFa9/download",
       "forgeType": "NEW",
-      "id": "official/ukzp/season-one",
+      "id": "official/ukzp/season-two",
       "isEditable": false,
-      "isHidden": true,
+      "isHidden": false,
       "forceUpdates": true,
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-two.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.18.2",
@@ -26,10 +26,10 @@
       ]
     },
     "resources": {
-      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/background.webp",
-      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/icon.webp",
-      "logo": "https://i.ibb.co/wzHpw0V/logo-cl.png",
-      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/thumbnail.webp"
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp/icon.webp",
+      "logo": "https://i.ibb.co/jkVx7RQ/logo-cl.png",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp/thumbnail.webp"
     },
     "versions": {
       "forge": "1.18.2-40.2.17",
