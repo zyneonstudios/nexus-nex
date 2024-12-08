@@ -7,12 +7,12 @@
       ],
       "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
-      "version": "2024.10-pre.1"
+      "version": "2024.12-pre.1"
     },
     "meta": {
       "changelogs": [],
       "description": "",
-      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/application-minecraft-module-2024.10-pre.1.jar",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module/application-minecraft-module-2024.12-pre.1.jar",
       "id": "nexus-minecraft-module",
       "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
       "infoText": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
