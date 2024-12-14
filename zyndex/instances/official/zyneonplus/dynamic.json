@@ -8,11 +8,11 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Latest",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.11A (Dynamic)"
+      "version": "2024.12"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://cloud.nerofy.de/index.php/s/xTBBzzSi4zb9yGd/download",
+      "download": "https://cloud.nerofy.de/index.php/s/Q8Jz6R2JyyWbJwE/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -20,7 +20,7 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.1",
+        "minecraft-1.21.3",
         "modloder-fabric",
         "fabric-0.16.9",
         "zyneonplus",
@@ -35,7 +35,7 @@
     },
     "versions": {
       "fabric": "0.16.9",
-      "minecraft": "1.21.1"
+      "minecraft": "1.21.3"
     }
   },
   "scheme": "2024.7"
