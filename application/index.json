@@ -8,11 +8,24 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2.3.1"
+        "version": "2.3.1f"
       },
       "meta": {
-        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/app-main/2.3.1/app-main-2.3.1.jar",
+        "download": "https://cloud.nerofy.de/index.php/s/PWSrKCkoXYTQ2Wd/download",
         "id": "stable",
+        "isHidden": false
+      }
+    },
+    {
+      "info": {
+        "author": "Zyneon Studios, Zyneon Nexus",
+        "description": "Zyneon Studios NEXUS Application",
+        "name": "NEXUS Application, Experimental",
+        "version": "2.4.0-alpha.4"
+      },
+      "meta": {
+        "download": "https://maven.zyneonstudios.com/releases/com/zyneonstudios/nexus/app-main/2.4.0-alpha.4/app-main-2.4.0-alpha.4.jar",
+        "id": "experimental",
         "isHidden": false
       }
     },
