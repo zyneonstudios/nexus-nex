@@ -21,10 +21,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2.4.0-alpha.7"
+        "version": "2.4.0-alpha.8"
       },
       "meta": {
-        "download": "https://maven.nrfy.net/releases/com/zyneonstudios/nexus/app-main/2.4.0-alpha.7/app-main-2.4.0-alpha.7.jar",
+        "download": "https://maven.nrfy.net/releases/com/zyneonstudios/nexus/app-main/2.4.0-alpha.8/app-main-2.4.0-alpha.8.jar",
         "id": "experimental",
         "isHidden": false
       }
