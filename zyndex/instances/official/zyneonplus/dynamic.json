@@ -5,18 +5,18 @@
       "authors": [
         "Zyneon Studios"
       ],
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Zyneon+ Latest",
-      "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.3-latest.2"
+      "description": "This is an id migration version, please update Zyneon+ Latest.",
+      "name": "Zyneon+ (please update)",
+      "summary": "This is an id migration version, please update Zyneon+ Latest.",
+      "version": "id-migration"
     },
     "meta": {
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "description": "This is an id migration version, please update Zyneon+ Latest.",
       "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/1.21.4/2025.3.zip",
       "isEditable": false,
-      "isHidden": false,
+      "isHidden": true,
       "forceUpdates": true,
-      "id": "official/zyneonplus/latest",
+      "id": "official/zyneonplus/dynamic",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/latest.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [

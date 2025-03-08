@@ -29,7 +29,9 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json",
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json"
   ],
   "modules": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
