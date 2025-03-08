@@ -8,34 +8,34 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Latest",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.12"
+      "version": "2025.3"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://cloud.nerofy.de/index.php/s/Q8Jz6R2JyyWbJwE/download",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/1.21.4/2025.3-release.zip",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
-      "id": "official/zyneonplus/dynamic",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
+      "id": "official/zyneonplus/latest",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/latest.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.3",
+        "minecraft-1.21.4",
         "modloder-fabric",
-        "fabric-0.16.9",
+        "fabric-0.16.10",
         "zyneonplus",
         "optimization"
       ]
     },
     "resources": {
-      "background": "https://i.ibb.co/QH1YYPP/1-21.webp",
-      "icon": "https://i.ibb.co/NCmwTY4/dynamic.png",
-      "logo": "https://cdn.nerofy.de/zyneon/5cbfad76-dff7-4ee8-bf49-2dd9f4132bfa/a9417b51-ccd9-45c1-a0d7-29ba8a7b6ccc",
-      "thumbnail": "https://i.ibb.co/Y7MW6mh/zyneonplus-dynamic.png"
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.png",
+      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-icon.png",
+      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3-dynamic.png",
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-thumbnail.png"
     },
     "versions": {
-      "fabric": "0.16.9",
-      "minecraft": "1.21.3"
+      "fabric": "0.16.10",
+      "minecraft": "1.21.4"
     }
   },
   "scheme": "2024.7"

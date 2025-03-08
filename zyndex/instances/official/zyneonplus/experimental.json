@@ -8,11 +8,11 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Experimental",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.12-experimental.1"
+      "version": "2025.3-experimental.1"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://cloud.nerofy.de/index.php/s/98L2gr8gmCp8Sd8/download",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/1.21.4/2025.3-experimental.zip",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -22,19 +22,19 @@
       "tags": [
         "minecraft-1.21.4",
         "modloder-fabric",
-        "fabric-0.16.9",
+        "fabric-0.16.10",
         "zyneonplus",
         "optimization"
       ]
     },
     "resources": {
-      "background": "https://i.ibb.co/QH1YYPP/1-21.webp",
-      "icon": "https://i.ibb.co/wyFSkGt/512.png",
-      "logo": "https://cdn.nerofy.de/zyneon/5cbfad76-dff7-4ee8-bf49-2dd9f4132bfa/a49a465a-1488-4e4d-8b9a-22593d19027d",
-      "thumbnail": "https://i.ibb.co/wyFSkGt/512.png"
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.png",
+      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-icon.png",
+      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3-dynamic.png",
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-thumbnail.png"
     },
     "versions": {
-      "fabric": "0.16.9",
+      "fabric": "0.16.10",
       "minecraft": "1.21.4"
     }
   },
