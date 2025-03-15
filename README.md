@@ -13,7 +13,7 @@
 > - **Public modules:** 2
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
-> - **NEX version: 2025.3.15.132630**
+> - **NEX version:** 2025.3.15.17
 
 ## Instances
 - [Zyneon+ Latest](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/latest.json) by **Zyneon Nexus**
