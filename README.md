@@ -8,12 +8,12 @@
 > - **Name:** NEX
 > - **URL:** [https://zyneonstudios.github.io/nexus-nex/zyndex/index.json](https://zyneonstudios.github.io/nexus-nex/zyndex/index.json)
 > - **Owner:** [Zyneon Nexus](https://nexus.zyneonstudios.org)
-> - **Hosting type:** GitHub repository
+> - **Hosting type:** [GitHub repository](https://github.com/zyneonstudios/nexus-nex)
 > - **Public instances:** 11
 > - **Public modules:** 2
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
-> - **NEX version:** 2025.03.15.262
+> - **NEX version:** 2025.03.15.263
 > - **Versioning**: yyyy.mm.dd.commit
 <details>
 <summary>Zyndex Addons</summary>
