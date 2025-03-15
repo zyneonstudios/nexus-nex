@@ -4,7 +4,7 @@
 
 ## Instances
 - [Zyneon+ Latest](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/latest.json)
-- [Zyneon+ Beta](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/beta.json)
+- [Zyneon+ Latest (Beta)](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/beta.json)
 - [Zyneon+ Exploration](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/exploration.json)
 - [Zyneon+ VR](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/vr.json)
 - [Zyneon+ 1.21.4](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/1.21.json)
