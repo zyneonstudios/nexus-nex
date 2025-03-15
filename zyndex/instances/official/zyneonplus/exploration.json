@@ -8,7 +8,7 @@
       "name": "Zyneon+ Exploration",
       "description": "Zyneon+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.3-exploration.2"
+      "version": "2025.3-exploration.3"
     },
     "meta": {
       "description": "Zyneon+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
@@ -28,10 +28,10 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.png",
-      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3-dynamic.png",
-      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/exploration/2025.3-logo.png",
-      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/exploration/2025.3-thumbnail.png"
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/exploration/2025.3-background.webp",
+      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
+      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/exploration/2025.3-logo.webp",
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/exploration/2025.3-thumbnail.webp"
     },
     "versions": {
       "fabric": "0.16.10",

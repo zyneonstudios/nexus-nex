@@ -28,10 +28,10 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.png",
-      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3-dynamic.png",
-      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-logo.png",
-      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-thumbnail.png"
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.webp",
+      "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
+      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-logo.webp",
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-thumbnail.webp"
     },
     "versions": {
       "fabric": "0.16.10",
