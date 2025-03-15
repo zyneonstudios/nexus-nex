@@ -5,15 +5,15 @@
       "authors": [
         "Zyneon Studios"
       ],
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Zyneon+ (testing)",
-      "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.3-testing.1"
+      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together! (testing, unstable)",
+      "name": "Zyneon+ Experimental (testing, unstable)",
+      "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together! (testing, unstable)",
+      "version": "2025.3-testing.2"
     },
     "meta": {
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/testing/2025.3-testing.1.zip",
-      "isEditable": false,
+      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together! (testing, unstable)",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/testing/2025.3-testing.2.zip",
+      "isEditable": true,
       "isHidden": true,
       "forceUpdates": true,
       "id": "official/zyneonplus/testing",
@@ -28,7 +28,6 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.webp",
       "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
       "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/testing/2025.3-logo.webp",
       "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/testing/2025.3-thumbnail.webp"
