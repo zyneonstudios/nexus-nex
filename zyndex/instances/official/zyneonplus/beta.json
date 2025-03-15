@@ -6,33 +6,32 @@
         "Zyneon Studios"
       ],
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Zyneon+ VR",
+      "name": "Zyneon+ Beta",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.3-vr.3"
+      "version": "2025.3-beta.3"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/vr/2025.3-vr.3.zip",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/beta/2025.3-beta.3.zip",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
-      "id": "official/zyneonplus/vr",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
+      "id": "official/zyneonplus/beta",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/beta.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.21.4",
         "modloder-fabric",
         "fabric-0.16.10",
         "zyneonplus",
-        "optimization",
-        "virtual-reality"
+        "optimization"
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/vr/2025.3-background.webp",
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.webp",
       "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
-      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/vr/2025.3-logo.webp",
-      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/vr/2025.3-thumbnail.webp"
+      "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/beta/2025.3-logo.webp",
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/beta/2025.3-thumbnail.webp"
     },
     "versions": {
       "fabric": "0.16.10",

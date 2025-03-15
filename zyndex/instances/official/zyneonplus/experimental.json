@@ -8,19 +8,19 @@
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Zyneon+ Experimental",
       "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.3-experimental.3"
+      "version": "2025.3-experimental.1"
     },
     "meta": {
       "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/experimental/2025.3-experimental.2.zip",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/experimental/2025.3-experimental.1.zip",
       "isEditable": false,
-      "isHidden": false,
+      "isHidden": true,
       "forceUpdates": true,
       "id": "official/zyneonplus/experimental",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.4",
+        "minecraft-1.21.5-pre2",
         "modloder-fabric",
         "fabric-0.16.10",
         "zyneonplus",
@@ -35,7 +35,7 @@
     },
     "versions": {
       "fabric": "0.16.10",
-      "minecraft": "1.21.4"
+      "minecraft": "1.21.5-pre2"
     }
   },
   "scheme": "2024.7"

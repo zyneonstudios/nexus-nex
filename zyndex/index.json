@@ -4,7 +4,9 @@
   "owner": "Zyneon Nexus",
   "instances": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/latest.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/beta.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/exploration.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.21.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.20.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.19.json",
@@ -13,8 +15,6 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.16.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.12.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.8.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-two.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",
@@ -29,9 +29,10 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json",
 
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json"
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
   ],
   "modules": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
