@@ -1,8 +1,8 @@
 # NEX (Official Zyndex instance by **Zyneon Nexus**)
 
 > **Zyndex** is a content management tool/library by **Zyneon Nexus**
-> - [Click here to check out the Zyndex java library (wip)](https://github.com/zyneonstudios/nexus-zyndex-java)<br>
 > - [Click here to check out the Zyndex documentation (wip)](https://nexus.zyneonstudios.org/docs/zyndex/about)
+> - [Click here to check out the Zyndex java library (wip)](https://github.com/zyneonstudios/nexus-zyndex-java)
 
 > __**Zyndex meta:**__
 > - **Name:** NEX
@@ -13,7 +13,8 @@
 > - **Public modules:** 2
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
-> - **NEX version:** 2025.3.15.17
+> - **NEX version:** 2025.03.15.262
+> - **Versioning**: yyyy.mm.dd.commit
 <details>
 <summary>Zyndex Addons</summary>
 
