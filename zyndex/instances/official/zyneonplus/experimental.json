@@ -6,7 +6,7 @@
         "Zyneon Studios"
       ],
       "description": "This is an id migration version, please update Zyneon+ Latest.",
-      "name": "Zyneon+ Beta (please update)",
+      "name": "Zyneon+ Beta",
       "summary": "This is an id migration version, please update Zyneon+ Latest.",
       "version": "id-migration"
     },
@@ -28,7 +28,7 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.webp",
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21/2025.3-background.webp",
       "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
       "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/beta/2025.3-logo.webp",
       "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/beta/2025.3-thumbnail.webp"

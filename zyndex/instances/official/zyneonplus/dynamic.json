@@ -6,13 +6,13 @@
         "Zyneon Studios"
       ],
       "description": "This is an id migration version, please update Zyneon+ Latest.",
-      "name": "Zyneon+ (please update)",
+      "name": "Zyneon+",
       "summary": "This is an id migration version, please update Zyneon+ Latest.",
       "version": "id-migration"
     },
     "meta": {
       "description": "This is an id migration version, please update Zyneon+ Latest.",
-      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/1.21.4/2025.3.zip",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/1.21/2025.3.zip",
       "isEditable": false,
       "isHidden": true,
       "forceUpdates": true,
@@ -28,7 +28,7 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21.4/2025.3-background.webp",
+      "background": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/1.21/2025.3-background.webp",
       "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
       "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-logo.webp",
       "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/latest/2025.3-thumbnail.webp"

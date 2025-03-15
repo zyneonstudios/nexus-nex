@@ -30,7 +30,7 @@
     "resources": {
       "icon": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/2025.3.1-dynamic.webp",
       "logo": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/testing/2025.3-logo.webp",
-      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/testing/2025.3-thumbnail.webp"
+      "thumbnail": "https://b.nerotv.live/zyneon/nexus/img/instances/zyneonplus/beta/2025.3-thumbnail.webp"
     },
     "versions": {
       "fabric": "0.16.10",
