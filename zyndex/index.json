@@ -32,6 +32,7 @@
 
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/testing.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
   ],
   "modules": [
