@@ -16,7 +16,7 @@
       "forgeType": "NEW",
       "id": "official/primal",
       "isEditable": false,
-      "isHidden": false,
+      "isHidden": true,
       "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",

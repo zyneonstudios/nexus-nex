@@ -5,13 +5,13 @@
       "authors": [
         "Zyneon Studios"
       ],
-      "description": "This is an id migration version, please update Zyneon+ Latest.",
-      "name": "Zyneon+ Beta",
-      "summary": "This is an id migration version, please update Zyneon+ Latest.",
+      "description": "This is an id migration version, please update Zyneon+ Latest (Beta).",
+      "name": "Zyneon+ Latest (Beta)",
+      "summary": "This is an id migration version, please update Zyneon+ Latest (Beta).",
       "version": "id-migration"
     },
     "meta": {
-      "description": "This is an id migration version, please update Zyneon+ Latest.",
+      "description": "This is an id migration version, please update Zyneon+ Latest (Beta).",
       "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/beta/2025.3-beta.3.zip",
       "isEditable": false,
       "isHidden": true,
