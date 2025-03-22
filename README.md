@@ -9,8 +9,8 @@
 > - **URL:** [https://zyneonstudios.github.io/nexus-nex/zyndex/index.json](https://zyneonstudios.github.io/nexus-nex/zyndex/index.json)
 > - **Owner:** [Zyneon Nexus](https://nexus.zyneonstudios.org)
 > - **Hosting type:** [GitHub repository](https://github.com/zyneonstudios/nexus-nex)
-> - **Public instances:** 11
-> - **Public modules:** 2
+> - **Public instances:** 12
+> - **Public modules:** 1
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
 > - **NEX version:** 2025.03.15.263
@@ -33,7 +33,7 @@
 - ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.18.json)) [Zyneon+ 1.18.2](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/1.18.json) by **Zyneon Nexus**
 - ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.17.json)) [Zyneon+ 1.17.1](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/1.17.json) by **Zyneon Nexus**
 - ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.16.json)) [Zyneon+ 1.16.5](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/zyneonplus/1.16.json) by **Zyneon Nexus**
+- ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json)) [Cinematica](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/cinematica.json) by **Zyneon Nexus**
 - ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json)) [UKZP: Season III](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/instances/official/ukzp/season-three.json) by [nerotvlive](https://nerotvlive.nrfy.net/links) and [Fantastico](https://fantastico.nrfy.net)
 ### Modules
 - ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json)) "[a Minecraft module](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/modules/official/nexus-minecraft-module.json)" by [nerotvlive](https://nerotvlive.nrfy.net/links)
-- ([direct link](https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.json)) [Zyneon Star](https://github.com/zyneonstudios/nexus-nex/blob/main/zyndex/modules/official/zyneon-star-module.json) by **Zyneon Nexus**
