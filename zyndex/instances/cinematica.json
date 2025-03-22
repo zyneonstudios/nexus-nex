@@ -1,31 +1,34 @@
 {
   "instance": {
     "info": {
-      "author": "nerotvlive",
+      "author": "Zyneon Nexus",
+      "authors": [
+        "Zyneon Nexus"
+      ],
       "description": "Create awesome Minecraft Machinimas!",
       "name": "Cinematica",
-      "version": "2024.5"
+      "version": "2024.5",
+      "summary": "Create awesome Minecraft Machinimas!"
     },
     "meta": {
+      "description": "Create awesome Minecraft Machinimas!",
       "download": "https://www.dropbox.com/scl/fi/3r2uwusxnxz14o7icri0q/cinematica.zip?rlkey=i6ybcttyyijsaz360wjrlnnt5&dl=1",
       "forgeType": "NEW",
+      "id": "official/cinematica",
+      "isEditable": true,
       "isHidden": false,
-      "id": "nerodex-cinematica",
-      "location": "https://danieldieeins.github.io/zyndex/cinematica.json",
-      "origin": "https://danieldieeins.github.io/zyndex/index.json",
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.12.2",
-        "modloder-forge",
-        "forgetype-new"
+        "modloder-forge"
       ]
     },
-    "resources": {
-      "thumbnail": "https://i.ibb.co/R0Mrpx5/cinematica.png"
-    },
     "versions": {
-      "forge": "14.23.5.2860",
+      "forge": "1.12.2-14.23.5.2860",
       "minecraft": "1.12.2"
     }
   },
-  "scheme": "2024.3"
+  "scheme": "2024.7"
 }
