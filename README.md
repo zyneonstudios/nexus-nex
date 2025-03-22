@@ -13,7 +13,7 @@
 > - **Public modules:** 1
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
-> - **NEX version:** 2025.03.15.265
+> - **NEX version:** 2025.03.15.266
 > - **Versioning**: yyyy.mm.dd.commit
 <details>
 <summary>Zyndex Addons</summary>
