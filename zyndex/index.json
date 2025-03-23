@@ -15,6 +15,7 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.16.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.12.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.8.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/testing.json",
 
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
@@ -35,7 +36,6 @@
 
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/dynamic.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/experimental.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/testing.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
   ],
   "modules": [
