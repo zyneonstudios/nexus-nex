@@ -1,17 +1,17 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon Studios",
+      "author": "Zyneon Projects",
       "authors": [
-        "Zyneon Studios"
+        "Zyneon Projects"
       ],
-      "description": "Modern technic modpack by Zyneon Studios. Cars, new blocks, planes and more.",
+      "description": "Modern technic modpack by Zyneon Projects. Cars, new blocks, planes and more.",
       "name": "Project'Z: Reborn",
-      "summary": "Modern technic modpack by Zyneon Studios. Cars, new blocks, planes and more.",
+      "summary": "Modern technic modpack by Zyneon Projects. Cars, new blocks, planes and more.",
       "version": "2024.9"
     },
     "meta": {
-      "description": "Try out the newest modpack by Zyneon Studios!",
+      "description": "Try out the newest modpack by Zyneon Projects!",
       "download": "https://cdn.nerofy.de/zyneon/6c949bc6-944d-41c2-89f5-7ea7f73c27bb/9961ca7a-e58e-41d3-a5b6-4512652f0e2e",
       "forgeType": "NEW",
       "id": "official/projectz",

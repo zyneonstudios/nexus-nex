@@ -1,17 +1,17 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon Studios",
+      "author": "Zyneon Projects",
       "authors": [
-        "Zyneon Studios"
+        "Zyneon Projects"
       ],
-      "description": "A magical modpack by Zyneon Studios.",
+      "description": "A magical modpack by Zyneon Projects.",
       "name": "Primal",
-      "summary": "A magical modpack by Zyneon Studios.",
+      "summary": "A magical modpack by Zyneon Projects.",
       "version": "2024.9.1"
     },
     "meta": {
-      "description": "A magical modpack by Zyneon Studios. Experience a world filled with new mobs, possibilities and fun!",
+      "description": "A magical modpack by Zyneon Projects. Experience a world filled with new mobs, possibilities and fun!",
       "download": "https://cloud.nerofy.de/index.php/s/xFBbNA7xk4x4sQA/download",
       "forgeType": "NEW",
       "id": "official/primal",
