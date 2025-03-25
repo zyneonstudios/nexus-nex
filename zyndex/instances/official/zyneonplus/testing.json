@@ -8,11 +8,11 @@
       "description": "Zyneon+ Experimental allows you to play the Minecraft: Java Edition snapshot, pre-release and release-candidate versions in an optimized way.",
       "name": "Zyneon+ Experimental (testing, unstable)",
       "summary": "Zyneon+ Experimental allows you to play the Minecraft: Java Edition snapshot, pre-release and release-candidate versions in an optimized way.",
-      "version": "2025.3-testing.5"
+      "version": "2025.3.1-testing.1"
     },
     "meta": {
       "description": "Zyneon+ Experimental allows you to play the Minecraft: Java Edition snapshot, pre-release and release-candidate versions in an optimized way. Not all features from the regular Zyneon+ version work in the experimental version. We try to update the pack as quickly as possible when new snapshot, pre-release, or release candidate versions are available, but we don't always manage to do so. It's quite possible that we might skip a few versions at times. Thank you for your understanding.",
-      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/testing/2025.3-testing.5.zip",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/instances/zyneonplus/testing/2025.3.1-testing.1.zip",
       "isEditable": true,
       "isHidden": false,
       "forceUpdates": true,
@@ -20,7 +20,7 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/testing.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.5-rc1",
+        "minecraft-1.21.5",
         "modloder-fabric",
         "fabric-0.16.10",
         "zyneonplus",
@@ -34,7 +34,7 @@
     },
     "versions": {
       "fabric": "0.16.10",
-      "minecraft": "1.21.5-rc1"
+      "minecraft": "1.21.5"
     }
   },
   "scheme": "2024.7"
