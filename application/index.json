@@ -1,7 +1,9 @@
 {
-  "name": "NEXUS Application",
+  "name": "NEXUS App",
   "url": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/index.json",
-  "owner": "Zyneon Studios, Zyneon Nexus",
+  "news": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/news.json",
+  "changelogs": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/news.json",
+  "owner": "Zyneon Nexus",
   "versions": [
     {
       "info": {

@@ -13,11 +13,10 @@
 > - **Public modules:** 1
 > - **Public Zyndex addons:** 1
 > - **Zyndex scheme:** 2024.7
-> - **Versioning**: yyyy.mm.dd.commit
 <details>
 <summary>Zyndex Addons</summary>
 
-- ([direct link](https://zyneonstudios.github.io/nexus-nex/application/index.json)) [NEXUS Updater meta host](https://github.com/zyneonstudios/nexus-nex/blob/main/application/index.json) by **Zyneon Nexus**
+- ([direct link](https://zyneonstudios.github.io/nexus-nex/application/index.json)) [NEXUS App meta host](https://github.com/zyneonstudios/nexus-nex/blob/main/application/index.json) by **Zyneon Nexus**
 </details>
 
 ## Content
