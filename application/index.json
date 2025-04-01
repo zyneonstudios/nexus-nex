@@ -10,10 +10,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2.3.2"
+        "version": "2.3.1f2-final"
       },
       "meta": {
-        "download": "https://cloud.nrfy.net/index.php/s/PWjPiSCsB8sZjFK/download",
+        "download": "https://b.nerotv.live/zyneon/nexus/app/stable/2.3.1f.jar",
         "id": "stable",
         "isHidden": false
       }
@@ -23,10 +23,10 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Zyneon Studios NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2.3.2"
+        "version": "2.3.1f2-final"
       },
       "meta": {
-        "download": "https://cloud.nrfy.net/index.php/s/PWjPiSCsB8sZjFK/download",
+        "download": "https://b.nerotv.live/zyneon/nexus/app/stable/2.3.1f.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,7 +36,7 @@
         "author": "Zyneon Studios, Zyneon Nexus",
         "description": "Old Zyneon Application",
         "name": "Zyneon Application, Old",
-        "version": "2024.10-old.1"
+        "version": "2024.10-final"
       },
       "meta": {
         "download": "https://b.nerotv.live/zyneon/nexus/app/old/application-main-2024.10-old.1.jar",
