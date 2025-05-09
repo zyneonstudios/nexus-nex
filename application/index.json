@@ -7,10 +7,10 @@
   "versions": [
     {
       "info": {
-        "author": "Zyneon Studios, Zyneon Nexus",
-        "description": "Zyneon Studios NEXUS Application",
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2.3.1f2-final"
+        "version": "2.3.1f2"
       },
       "meta": {
         "download": "https://b.nerotv.live/zyneon/nexus/app/stable/2.3.1f.jar",
@@ -20,26 +20,26 @@
     },
     {
       "info": {
-        "author": "Zyneon Studios, Zyneon Nexus",
-        "description": "Zyneon Studios NEXUS Application",
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2.3.1f2-final"
+        "version": "2025.5"
       },
       "meta": {
-        "download": "https://b.nerotv.live/zyneon/nexus/app/stable/2.3.1f.jar",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/napp/download",
         "id": "experimental",
         "isHidden": false
       }
     },
     {
       "info": {
-        "author": "Zyneon Studios, Zyneon Nexus",
-        "description": "Old Zyneon Application",
-        "name": "Zyneon Application, Old",
-        "version": "2024.10-final"
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
+        "name": "NEXUS Application, Old",
+        "version": "2025.5"
       },
       "meta": {
-        "download": "https://b.nerotv.live/zyneon/nexus/app/old/application-main-2024.10-old.1.jar",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/napp/download",
         "id": "old",
         "isHidden": false
       }
