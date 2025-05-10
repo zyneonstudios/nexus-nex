@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Nerofy Nexus",
         "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2025.5"
+        "version": "2025.5f"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/napp/download",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/napps/download",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Nerofy Nexus",
         "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Old",
-        "version": "2025.5"
+        "version": "2025.5f"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/napp/download",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/napps/download",
         "id": "old",
         "isHidden": false
       }
