@@ -25,6 +25,10 @@
         "modloder-forge"
       ]
     },
+    "resources": {
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/QCpicLDnAsHzxo4/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/QCpicLDnAsHzxo4/download"
+    },
     "versions": {
       "forge": "1.12.2-14.23.5.2860",
       "minecraft": "1.12.2"
