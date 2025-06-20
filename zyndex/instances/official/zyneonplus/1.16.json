@@ -1,22 +1,22 @@
 {
   "instance": {
     "info": {
-      "author": "Zyneon Nexus",
+      "author": "Nerofy Nexus",
       "authors": [
-        "Zyneon Nexus"
+        "Nerofy Nexus"
       ],
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Zyneon+ 1.16.5",
-      "summary": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.9"
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Essential+ 1.16.5",
+      "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "2024.9.1"
     },
     "meta": {
-      "description": "Zyneon+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.16.zip",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
-      "id": "official/zyneonplus/1-16",
+      "id": "official/essentialplus/1-16",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.16.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
@@ -25,10 +25,10 @@
       ]
     },
     "resources": {
-      "background": "https://i.ibb.co/xKTb53N/1-16.webp",
-      "icon": "https://i.ibb.co/NCmwTY4/dynamic.png",
-      "logo": "https://i.ibb.co/dQ29ffY/1-21-logo.png",
-      "thumbnail": "https://i.ibb.co/XSqdJvG/1-16.png"
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/eSa3yZiWBqKz44F/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/3BWj3CweRip8d6f/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download"
     },
     "versions": {
       "fabric": "0.14.22",
