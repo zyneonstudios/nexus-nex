@@ -8,16 +8,16 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ Latest (Beta)",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.6.3"
+      "version": "id-migration"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://www.wolkenspeicher.cloud/index.php/s/d7Li2ztsL3KZ5M9/download",
       "isEditable": false,
-      "isHidden": false,
+      "isHidden": true,
       "forceUpdates": true,
       "id": "official/zyneonplus/beta",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/beta.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.21.6",

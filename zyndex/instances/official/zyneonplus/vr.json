@@ -8,16 +8,16 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ VR",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.6.3-vr.1"
+      "version": "id-migration"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "download": "https://www.wolkenspeicher.cloud/index.php/s/YXy9emm3TAKgyi9/download",
       "isEditable": false,
-      "isHidden": false,
+      "isHidden": true,
       "forceUpdates": true,
       "id": "official/zyneonplus/vr",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.21.6",

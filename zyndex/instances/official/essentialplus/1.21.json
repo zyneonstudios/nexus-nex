@@ -6,33 +6,36 @@
         "Nerofy Nexus"
       ],
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Essential+ 1.16.5",
+      "name": "Essential+ 1.21.6",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "id-migration"
+      "version": "2025.6.3"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.16.zip",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/d7Li2ztsL3KZ5M9/download",
       "isEditable": false,
-      "isHidden": true,
+      "isHidden": false,
       "forceUpdates": true,
-      "id": "official/zyneonplus/1-16",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.16.json",
+      "id": "official/essentialplus/1-21",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.21.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.16.5",
-        "modloder-fabric"
+        "minecraft-1.21.6",
+        "modloder-fabric",
+        "fabric-0.16.14",
+        "essentialplus",
+        "optimization"
       ]
     },
     "resources": {
-      "background": "https://www.wolkenspeicher.cloud/index.php/s/eSa3yZiWBqKz44F/download",
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/TKWnBJmDoc7j69s/download",
       "icon": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download",
       "logo": "https://www.wolkenspeicher.cloud/index.php/s/3BWj3CweRip8d6f/download",
       "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download"
     },
     "versions": {
-      "fabric": "0.14.22",
-      "minecraft": "1.16.5"
+      "fabric": "0.16.14",
+      "minecraft": "1.21.6"
     }
   },
   "scheme": "2024.7"

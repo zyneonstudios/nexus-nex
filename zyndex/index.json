@@ -3,6 +3,18 @@
   "url": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
   "owner": "Zyneon Nexus",
   "instances": [
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/latest.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/exploration.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.21.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.20.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.19.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.18.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.17.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.16.json",
+
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/latest.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/beta.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/exploration.json",
