@@ -19,13 +19,7 @@
       "id": "official/zyneonplus/beta",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-      "tags": [
-        "minecraft-1.21.6",
-        "modloder-fabric",
-        "fabric-0.16.14",
-        "essentialplus",
-        "optimization"
-      ]
+      "tags": []
     },
     "resources": {
       "background": "https://www.wolkenspeicher.cloud/index.php/s/Xw8R2nyY6tZBeec/download",
@@ -35,7 +29,7 @@
     },
     "versions": {
       "fabric": "0.16.14",
-      "minecraft": "1.21.6"
+      "minecraft": "1.21.8"
     }
   },
   "scheme": "2024.7"

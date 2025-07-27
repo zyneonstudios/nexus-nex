@@ -19,14 +19,7 @@
       "id": "official/zyneonplus/vr",
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-      "tags": [
-        "minecraft-1.21.6",
-        "modloder-fabric",
-        "fabric-0.16.14",
-        "zyneonplus",
-        "optimization",
-        "virtual-reality"
-      ]
+      "tags": []
     },
     "resources": {
       "background": "https://www.wolkenspeicher.cloud/index.php/s/dwi3gxsat4SDsmz/download",
@@ -36,7 +29,7 @@
     },
     "versions": {
       "fabric": "0.16.14",
-      "minecraft": "1.21.6"
+      "minecraft": "1.21.8"
     }
   },
   "scheme": "2024.7"

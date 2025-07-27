@@ -20,7 +20,7 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.6",
+        "minecraft-1.21.8",
         "modloder-fabric",
         "fabric-0.16.14",
         "essentialplus",
@@ -36,7 +36,7 @@
     },
     "versions": {
       "fabric": "0.16.14",
-      "minecraft": "1.21.6"
+      "minecraft": "1.21.8"
     }
   },
   "scheme": "2024.7"
