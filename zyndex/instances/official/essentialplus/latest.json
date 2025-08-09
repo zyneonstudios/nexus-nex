@@ -12,7 +12,7 @@
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://wolfshaven.nerotv.live/data/essentialplus/pack/2025.7.zip",
+      "download": "https://backup.nrfy.net/essentialplus/pack/2025.7.zip",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -28,10 +28,10 @@
       ]
     },
     "resources": {
-      "background": "https://wolfshaven.nerotv.live/data/essentialplus/design/latest.webp",
-      "icon": "https://wolfshaven.nerotv.live/data/essentialplus/design/icon/latest.webp",
-      "logo": "https://wolfshaven.nerotv.live/data/essentialplus/design/logo/latest.webp",
-      "thumbnail": "https://wolfshaven.nerotv.live/data/essentialplus/design/icon/latest.webp"
+      "background": "https://backup.nrfy.net/essentialplus/design/latest.webp",
+      "icon": "https://backup.nrfy.net/essentialplus/design/icon/latest.webp",
+      "logo": "https://backup.nrfy.net/essentialplus/design/logo/latest.webp",
+      "thumbnail": "https://backup.nrfy.net/essentialplus/design/icon/latest.webp"
     },
     "versions": {
       "fabric": "0.16.14",
