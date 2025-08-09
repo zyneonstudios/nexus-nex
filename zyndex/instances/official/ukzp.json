@@ -1,0 +1,41 @@
+{
+  "instance": {
+    "info": {
+      "author": "nerotvlive, DerFantastico",
+      "authors": [
+        "nerotvlive",
+        "DerFantastico"
+      ],
+      "description": "UKZP: Space Flight Final Epic",
+      "name": "UKZP",
+      "summary": "UKZP: Space Flight Final Epic",
+      "version": "2024.11-redirect2"
+    },
+    "meta": {
+      "description": "UKZP: Space Flight Final Epic",
+      "download": "https://wolkenspeicher.cloud/index.php/s/jFdDJTqSLSrPAEg/download",
+      "forgeType": "NEW",
+      "id": "official/ukzp/season-iii",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.18.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp/background.webp",
+      "icon": "https://i.ibb.co/mCCyBny/ukzp-icon.png",
+      "logo": "https://i.ibb.co/8sNx5qZ/ukzp.png",
+      "thumbnail": "https://i.ibb.co/mCCyBny/ukzp-icon.png"
+    },
+    "versions": {
+      "forge": "1.18.2-40.2.17",
+      "minecraft": "1.18.2"
+    }
+  },
+  "scheme": "2024.7"
+}

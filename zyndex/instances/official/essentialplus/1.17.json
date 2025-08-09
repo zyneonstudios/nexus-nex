@@ -1,0 +1,42 @@
+{
+  "instance": {
+    "info": {
+      "author": "Nerofy Nexus",
+      "authors": [
+        "Nerofy Nexus"
+      ],
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Essential+ 1.17.1",
+      "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "2024.9.1"
+    },
+    "meta": {
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "download": "https://raw.githubusercontent.com/danieldieeins/ZyneonApplicationContent/main/m/official/zyneonplus/1.17.zip",
+      "isEditable": false,
+      "isHidden": false,
+      "forceUpdates": true,
+      "id": "official/essentialplus/1-17",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.17.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.17.1",
+        "modloder-fabric",
+        "fabric-0.14.22",
+        "essentialplus",
+        "optimization"
+      ]
+    },
+    "resources": {
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/5Yom7pRdeECHwsD/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/3BWj3CweRip8d6f/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/5jTfyTQE534XqBy/download"
+    },
+    "versions": {
+      "fabric": "0.14.22",
+      "minecraft": "1.17.1"
+    }
+  },
+  "scheme": "2024.7"
+}

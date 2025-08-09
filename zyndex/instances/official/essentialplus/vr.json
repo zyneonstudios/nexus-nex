@@ -1,0 +1,43 @@
+{
+  "instance": {
+    "info": {
+      "author": "Nerofy Nexus",
+      "authors": [
+        "Nerofy Nexus"
+      ],
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Essential+ VR",
+      "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "2025.7-vr.1-fix.1-fix.1"
+    },
+    "meta": {
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "download": "https://wolfshaven.nerotv.live/data/essentialplus/pack/2025.7-vr.1.zip",
+      "isEditable": false,
+      "isHidden": false,
+      "forceUpdates": true,
+      "id": "official/essentialplus/vr",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.21.8",
+        "modloder-fabric",
+        "fabric-0.16.14",
+        "essentialplus",
+        "optimization",
+        "virtual-reality"
+      ]
+    },
+    "resources": {
+      "background": "https://wolfshaven.nerotv.live/data/essentialplus/design/latest.webp",
+      "icon": "https://wolfshaven.nerotv.live/data/essentialplus/design/icon/virtual-reality.webp",
+      "logo": "https://wolfshaven.nerotv.live/data/essentialplus/design/logo/virtual-reality.webp",
+      "thumbnail": "https://wolfshaven.nerotv.live/data/essentialplus/design/icon/virtual-reality.webp"
+    },
+    "versions": {
+      "fabric": "0.16.14",
+      "minecraft": "1.21.8"
+    }
+  },
+  "scheme": "2024.7"
+}

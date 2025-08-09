@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Projects",
+      "authors": [
+        "Zyneon Projects"
+      ],
+      "description": "The first version of the rebooted Project'Z originally planned as part three!",
+      "name": "Project'Z: Test",
+      "summary": "The first version of the rebooted Project'Z originally planned as part three!",
+      "version": "2024.9"
+    },
+    "meta": {
+      "description": "The first version of the rebooted Project'Z originally planned as part three!",
+      "download": "https://www.dropbox.com/scl/fi/naj4b7j6ukcwhgn3b7agp/test.zip?rlkey=dfb7k97uhepcs52mgefcby9vj&dl=1",
+      "forgeType": "NEW",
+      "id": "official/projectz3-zyneon",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.16.5",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/thumbnail.webp"
+    },
+    "versions": {
+      "forge": "36.2.41",
+      "minecraft": "1.16.5"
+    }
+  },
+  "scheme": "2024.7"
+}

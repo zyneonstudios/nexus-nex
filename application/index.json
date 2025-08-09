@@ -1,0 +1,48 @@
+{
+  "name": "NEXUS App",
+  "url": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/index.json",
+  "news": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/news.json",
+  "changelogs": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/news.json",
+  "owner": "Zyneon Nexus",
+  "versions": [
+    {
+      "info": {
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
+        "name": "NEXUS Application, Stable",
+        "version": "2.3.1f3"
+      },
+      "meta": {
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "id": "stable",
+        "isHidden": false
+      }
+    },
+    {
+      "info": {
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
+        "name": "NEXUS Application, Experimental",
+        "version": "2.3.1f3"
+      },
+      "meta": {
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "id": "experimental",
+        "isHidden": false
+      }
+    },
+    {
+      "info": {
+        "author": "Nerofy, Nerofy Network, Nerofy Nexus",
+        "description": "Nerofy NEXUS Application",
+        "name": "NEXUS Application, Old",
+        "version": "2.3.1f3"
+      },
+      "meta": {
+        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "id": "old",
+        "isHidden": false
+      }
+    }
+  ]
+}

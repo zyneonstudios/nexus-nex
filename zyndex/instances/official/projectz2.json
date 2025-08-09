@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Projects",
+      "authors": [
+        "Zyneon Projects"
+      ],
+      "description": "Old but gold! This is the original modpack for Project'Z II from 2017/2018.",
+      "name": "Project'Z II: Legacy",
+      "summary": "Old but gold! This is the original modpack for Project'Z II from 2017/2018.",
+      "version": "2024.9"
+    },
+    "meta": {
+      "description": "Old but gold! This is the original modpack for Project'Z II.",
+      "download": "https://www.dropbox.com/scl/fi/bv4l3o5oqiv01c0zoa26y/projectz2-normal.zip?rlkey=zn7a1uxwi0l5xp3i5ffxfcfnc&dl=1",
+      "forgeType": "OLD",
+      "id": "official/projectz2",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz2.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.7.10",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz2/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz2/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz2/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz2/thumbnail.webp"
+    },
+    "versions": {
+      "forge": "10.13.4.1614-1.7.10",
+      "minecraft": "1.7.10"
+    }
+  },
+  "scheme": "2024.7"
+}

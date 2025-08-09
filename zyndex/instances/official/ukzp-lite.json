@@ -1,0 +1,41 @@
+{
+  "instance": {
+    "info": {
+      "author": "nerotvlive, DerFantastico",
+      "authors": [
+        "nerotvlive",
+        "DerFantastico"
+      ],
+      "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
+      "name": "UKZP",
+      "summary": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
+      "version": "2024.11-redirect"
+    },
+    "meta": {
+      "description": "U(ltra) K(rasses) Z(yneon) P(rojekt)",
+      "download": "https://wolkenspeicher.cloud/index.php/s/qX6sqotaJTM2nk7/download",
+      "forgeType": "NEW",
+      "id": "official/ukzp/season-i",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.18.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/icon.webp",
+      "logo": "https://i.ibb.co/wzHpw0V/logo-cl.png",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/thumbnail.webp"
+    },
+    "versions": {
+      "forge": "1.18.2-40.2.17",
+      "minecraft": "1.18.2"
+    }
+  },
+  "scheme": "2024.7"
+}

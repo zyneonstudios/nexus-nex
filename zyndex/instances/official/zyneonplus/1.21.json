@@ -1,0 +1,30 @@
+{
+  "instance": {
+    "info": {
+      "author": "Nerofy Nexus",
+      "authors": [
+        "Nerofy Nexus"
+      ],
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Essential+ 1.21.8",
+      "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "id-migration"
+    },
+    "meta": {
+      "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "download": "https://wolfshaven.nerotv.live/data/essentialplus/pack/2025.7.zip",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "id": "official/zyneonplus/1-21",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.21.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": []
+    },
+    "versions": {
+      "fabric": "0.16.14",
+      "minecraft": "1.21.8"
+    }
+  },
+  "scheme": "2024.7"
+}

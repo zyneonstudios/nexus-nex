@@ -1,0 +1,36 @@
+{
+  "module": {
+    "info": {
+      "authors": [
+        "Zyneon Studios"
+      ],
+      "summary": "View, post and manage Zyneon Star your way!",
+      "name": "Star",
+      "version": "2024.8-beta.3"
+    },
+    "meta": {
+      "changelogs": [],
+      "description": "Zyneon Star is the platform from Zyneon Studios, which was created to create, share, and view articles, resources, and content.\n\nThis client is a module/extension for the NEXUS application from Zyneon Studios to integrate Zyneon Star into the app with extended features and tools.",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.jar",
+      "id": "zyneon-star-module",
+      "isHidden": true,
+      "infoCard": "<h3 style='color: var(--highlight)'>Warning</h3><p>Zyneon Star is still in alpha - this module is in beta. Please report any issues. (The images are placeholders)</p>",
+      "infoText": "<a onclick='connector(\\'open.url.https://star.zyneonstudios.com\\')'>Zyneon Star</a>",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "tools"
+      ],
+      "versions": [
+        "2024.8-beta.3 (latest)"
+      ]
+    },
+    "resources": {
+      "background": "https://i.ibb.co/3pZ8Wfm/background.webp",
+      "icon": "https://i.ibb.co/Cz8QZVR/icon.webp",
+      "logo": "https://i.ibb.co/8dj5Fkc/star-logo.webp",
+      "thumbnail": "https://i.ibb.co/nLkr6P8/star-thumbnail.png"
+    }
+  },
+  "scheme": "2024.7"
+}

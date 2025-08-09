@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Projects",
+      "authors": [
+        "Zyneon Projects"
+      ],
+      "description": "A magical modpack by Zyneon Projects. (for low end pc's)",
+      "name": "Primal (LITE)",
+      "summary": "A magical modpack by Zyneon Projects. (for low end pc's)",
+      "version": "2024.9.1"
+    },
+    "meta": {
+      "description": "A magical modpack by Zyneon Projects. Experience a world filled with new mobs, possibilities and fun! This version is optimized for low end pc's.",
+      "download": "https://wolkenspeicher.cloud/index.php/s/Tss9xYbyfQeAnJD/download",
+      "forgeType": "NEW",
+      "id": "official/primal-lite",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal-lite.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.18.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/primal-lite/thumbnail.webp"
+    },
+    "versions": {
+      "forge": "40.2.17",
+      "minecraft": "1.18.2"
+    }
+  },
+  "scheme": "2024.7"
+}

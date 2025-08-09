@@ -1,0 +1,48 @@
+{
+  "name": "NEX",
+  "url": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+  "owner": "Zyneon Nexus",
+  "instances": [
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/latest.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/exploration.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vr.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.21.json",
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/latest.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/beta.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/exploration.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.21.json",
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
+  ],
+  "instances_inactive": [
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.20.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.19.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.18.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.17.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.16.json",
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-two.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/argria2.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal-lite.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/primal3.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz2.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-test.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
+  ],
+  "modules": [
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/slemm.json"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Projects",
+      "authors": [
+        "Zyneon Projects"
+      ],
+      "description": "The second try to create Project'Z 3 from 2021/2022.",
+      "name": "Project'Z III: Retried",
+      "summary": "The second try to create Project'Z 3 from 2021/2022.",
+      "version": "2024.9"
+    },
+    "meta": {
+      "description": "The second try to create Project'Z 3 from 2021/2022.",
+      "download": "https://www.dropbox.com/scl/fi/089c5357yaifddvshcui1/zyneon.zip?rlkey=zezdvmnhlen4h5bw22ba9w4ie&dl=1",
+      "forgeType": "NEW",
+      "id": "official/projectz3-test",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-test.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.12.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-test/background.webp",
+      "icon": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-test/icon.webp",
+      "logo": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-test/logo.webp",
+      "thumbnail": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-test/thumbnail.webp"
+    },
+    "versions": {
+      "forge": "14.23.5.2860",
+      "minecraft": "1.12.2"
+    }
+  },
+  "scheme": "2024.7"
+}

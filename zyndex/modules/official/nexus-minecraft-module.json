@@ -1,0 +1,43 @@
+{
+  "module": {
+    "info": {
+      "authors": [
+        "Zyneon Studios",
+        "Zyneon Nexus"
+      ],
+      "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
+      "name": "Minecraft",
+      "version": "2024.12"
+    },
+    "meta": {
+      "changelogs": [],
+      "description": "",
+      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.jar",
+      "id": "nexus-minecraft-module",
+      "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
+      "infoText": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
+      "isHidden": false,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft",
+        "fabric",
+        "forge",
+        "neoforge",
+        "quilt",
+        "modrinth",
+        "curseforge"
+      ],
+      "versions": [
+        "2024.12 (latest)"
+      ]
+    },
+    "resources": {
+      "background": "https://i.ibb.co/bvT1wZ3/background.png",
+      "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Plains_Grass_Block.png",
+      "logo": "https://i.ibb.co/whsHvHF/napp.png",
+      "thumbnail": "https://i.ibb.co/DDXJLmR/15030995-forest-grass-block-l.webp"
+    }
+  },
+  "scheme": "2024.7"
+}

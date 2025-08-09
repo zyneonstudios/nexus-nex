@@ -1,0 +1,38 @@
+{
+  "instance": {
+    "info": {
+      "author": "nerotvlive",
+      "authors": [
+        "nerotvlive"
+      ],
+      "description": "Create awesome Minecraft Machinimas!",
+      "name": "Cinematica",
+      "version": "2024.5",
+      "summary": "Create awesome Minecraft Machinimas!"
+    },
+    "meta": {
+      "description": "Create awesome Minecraft Machinimas!",
+      "download": "https://www.dropbox.com/scl/fi/3r2uwusxnxz14o7icri0q/cinematica.zip?rlkey=i6ybcttyyijsaz360wjrlnnt5&dl=1",
+      "forgeType": "NEW",
+      "id": "official/cinematica",
+      "isEditable": true,
+      "isHidden": false,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "minecraft-1.12.2",
+        "modloder-forge"
+      ]
+    },
+    "resources": {
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/QCpicLDnAsHzxo4/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/QCpicLDnAsHzxo4/download"
+    },
+    "versions": {
+      "forge": "1.12.2-14.23.5.2860",
+      "minecraft": "1.12.2"
+    }
+  },
+  "scheme": "2024.7"
+}
