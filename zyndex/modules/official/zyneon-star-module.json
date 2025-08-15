@@ -11,7 +11,7 @@
     "meta": {
       "changelogs": [],
       "description": "Zyneon Star is the platform from Zyneon Studios, which was created to create, share, and view articles, resources, and content.\n\nThis client is a module/extension for the NEXUS application from Zyneon Studios to integrate Zyneon Star into the app with extended features and tools.",
-      "download": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/zyneon-star-module.jar",
+      "download": "https://b.nerotv.live/zyneon/nexus/nex/modules/zyneon-star-module/2024.8-beta.3.jar",
       "id": "zyneon-star-module",
       "isHidden": true,
       "infoCard": "<h3 style='color: var(--highlight)'>Warning</h3><p>Zyneon Star is still in alpha - this module is in beta. Please report any issues. (The images are placeholders)</p>",
