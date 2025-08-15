@@ -15,9 +15,6 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/vr.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/zyneonplus/1.21.json",
 
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
-  ],
-  "instances_inactive": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.20.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.19.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.18.json",
@@ -38,7 +35,12 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-test.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json"
+
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
+  ],
+  "instances_inactive": [
+
   ],
   "modules": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
