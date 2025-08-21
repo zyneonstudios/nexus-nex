@@ -1,9 +1,9 @@
 {
   "instance": {
     "info": {
-      "author": "Ich speicher alles in config dateien",
+      "author": "Ich speichere ALLES in CONFIG DATEIEN",
       "authors": [
-        "Ich speicher alles in config dateien"
+        "Ich speichere ALLES in CONFIG DATEIEN"
       ],
       "description": "API.doNothing() failed",
       "name": "API.doNothing() {}",
@@ -16,17 +16,21 @@
       "id": "slemm",
       "isEditable": false,
       "isHidden": true,
+      "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21"
+        "slemm"
       ]
     },
     "resources": {
+      "background": "https://b.nerotv.live/essentialplus/design/exploration.webp",
+      "icon": "https://b.nerotv.live/essentialplus/design/icon/exploration.webp",
+      "logo": "https://b.nerotv.live/essentialplus/design/logo/exploration.webp",
       "thumbnail": "https://mineblocks.com/1/wiki/images/archive/c/cc/20220102011405%21Barrier.png"
     },
     "versions": {
-      "minecraft": "69.420"
+      "minecraft": "1.0"
     }
   },
   "scheme": "2024.7"
