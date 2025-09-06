@@ -10,10 +10,10 @@
         "author": "Nerofy, Nerofy Network, Nerofy Nexus",
         "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Stable",
-        "version": "2.3.1f3"
+        "version": "2024.12.1"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/mND5G6ngjja2AiZ/download",
         "id": "stable",
         "isHidden": false
       }
@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Nerofy Nexus",
         "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2.3.1f3"
+        "version": "2024.12.1"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/mND5G6ngjja2AiZ/download",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Nerofy Nexus",
         "description": "Nerofy NEXUS Application",
         "name": "NEXUS Application, Old",
-        "version": "2.3.1f3"
+        "version": "2024.12.1"
       },
       "meta": {
-        "download": "https://raw.githubusercontent.com/zyneonstudios/nexus-nex/main/application/2.3.1f3.jar",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/mND5G6ngjja2AiZ/download",
         "id": "old",
         "isHidden": false
       }
