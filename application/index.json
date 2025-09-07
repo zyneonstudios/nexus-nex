@@ -10,10 +10,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Stable",
-        "version": "2024.12f"
+        "version": "2025.8"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/Lcr7KnkdYEzajpb/download",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/qxQBQA7rwNoajZk/download",
         "id": "stable",
         "isHidden": false
       }
@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2024.12f"
+        "version": "2024.9-beta.1"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/Lcr7KnkdYEzajpb/download",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/Yet62k2Jo7CzEqG/download",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Old",
-        "version": "2024.12f"
+        "version": "2025.8"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/Lcr7KnkdYEzajpb/download",
+        "download": "https://www.wolkenspeicher.cloud/index.php/s/qxQBQA7rwNoajZk/download",
         "id": "old",
         "isHidden": false
       }
