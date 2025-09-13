@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2024.9-beta.2"
+        "version": "2024.9-beta.4"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/Q5CCBJkgBNsgNB3/download",
+        "download": "https://maven.nrfy.net/snapshots/net/nrfy/nexus/nexus-app/2025.9-beta.4/nexus-app-2025.9-beta.4.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -35,11 +35,11 @@
       "info": {
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
-        "name": "NEXUS Application, Old",
-        "version": "2025.8"
+        "name": "NEXUS Application, Experimental",
+        "version": "2024.9-beta.4"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/qxQBQA7rwNoajZk/download",
+        "download": "https://maven.nrfy.net/snapshots/net/nrfy/nexus/nexus-app/2025.9-beta.4/nexus-app-2025.9-beta.4.jar",
         "id": "old",
         "isHidden": false
       }
