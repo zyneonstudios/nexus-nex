@@ -21,7 +21,7 @@
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "minecraft-1.20.6",
-        "modloder-fabric",
+        "modloader-fabric",
         "fabric-0.15.11",
         "essentialplus",
         "optimization"
