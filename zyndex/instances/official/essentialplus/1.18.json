@@ -20,9 +20,6 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.18.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.28.2",
-        "modloader-fabric",
-        "fabric-0.14.22",
         "essentialplus",
         "optimization"
       ]

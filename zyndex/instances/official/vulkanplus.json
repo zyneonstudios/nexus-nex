@@ -20,9 +20,6 @@
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/vulkanplus.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
-        "minecraft-1.21.5",
-        "modloader-fabric",
-        "fabric-0.17.2",
         "vulkanplus",
         "optimization"
       ]

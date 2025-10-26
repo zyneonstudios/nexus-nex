@@ -20,10 +20,7 @@
       "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/argria2.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-      "tags": [
-        "minecraft-1.18.2",
-        "modloader-forge"
-      ]
+      "tags": []
     },
     "resources": {
       "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/argria2/background.webp",

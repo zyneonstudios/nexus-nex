@@ -20,10 +20,7 @@
       "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-      "tags": [
-        "minecraft-1.16.5",
-        "modloader-forge"
-      ]
+      "tags": []
     },
     "resources": {
       "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/projectz3-zyneon/background.webp",

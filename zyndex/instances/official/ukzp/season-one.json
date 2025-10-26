@@ -21,10 +21,7 @@
       "forceUpdates": true,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-      "tags": [
-        "minecraft-1.18.2",
-        "modloader-forge"
-      ]
+      "tags": []
     },
     "resources": {
       "background": "https://nexus.zyneonstudios.com/assets/app/images/instances/ukzp-lite/background.webp",
