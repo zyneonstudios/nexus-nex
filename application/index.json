@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2026.1-beta.4"
+        "version": "2026.1-beta.5"
       },
       "meta": {
-        "download": "https://github.com/nerofynetwork/NEXUS-App/releases/download/2026.1-beta.4/nexus-app-2026.1-beta.4.jar",
+        "download": "https://github.com/nerofynetwork/NEXUS-App/releases/download/2026.1-beta.5/nexus-app-2026.1-beta.5.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Nexus",
         "description": "Zyneon Nexus Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2026.1-beta.4"
+        "version": "2026.1-beta.5"
       },
       "meta": {
-        "download": "https://github.com/nerofynetwork/NEXUS-App/releases/download/2026.1-beta.4/nexus-app-2026.1-beta.4.jar",
+        "download": "https://github.com/nerofynetwork/NEXUS-App/releases/download/2026.1-beta.5/nexus-app-2026.1-beta.5.jar",
         "id": "old",
         "isHidden": false
       }
