@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Atheris Studios & nerotvlive",
+      "authors": [
+        "Atheris Studios",
+        "nerotvlive"
+      ],
+      "description": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App",
+      "name": "Frozen in Time",
+      "summary": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App",
+      "version": "2025.11"
+    },
+    "meta": {
+      "description": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App. Nicht kompatibel mit vanilla und; oder kompetitiven Servern.",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/TjPjxk2fbe4zKNm/download",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "id": "frozen",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/frozen",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "atheris",
+        "frozen-in-time"
+      ]
+    },
+    "resources": {
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/B7Ni9aAfnxT3d4E/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/EcdfpKwqz8GYyyj/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/zeNQryFRij2m8fY/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/EcdfpKwqz8GYyyj/download"
+    },
+    "versions": {
+      "fabric": "0.17.3",
+      "minecraft": "1.21.1"
+    }
+  },
+  "scheme": "2024.7"
+}

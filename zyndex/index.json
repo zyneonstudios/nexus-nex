@@ -38,7 +38,8 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
 
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/frozen.json"
   ],
   "instances_inactive": [
 
