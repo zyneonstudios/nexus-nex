@@ -1,15 +1,16 @@
 {
   "instance": {
     "info": {
-      "author": "Atheris Studios & nerotvlive",
+      "author": "Atheris Studios and nerotvlive",
       "authors": [
-        "Atheris Studios",
+        "Atheris Studios and nerotvlive",
+        "Ateris Studios",
         "nerotvlive"
       ],
       "description": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App",
       "name": "Frozen in Time",
       "summary": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App",
-      "version": "2025.11.1"
+      "version": "2025.11.2"
     },
     "meta": {
       "description": "Eine optimierter Port des Frozen in Time Modpacks für die NEXUS App. Nicht kompatibel mit vanilla und; oder kompetitiven Servern.",
