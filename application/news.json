@@ -2,7 +2,7 @@
     "news": [
         {
             "title": "A fresh new start!",
-            "author": "Zyneon Nexus",
+            "author": "Zyneon Apex",
             "timestamp": "1743262021",
             "summary": "We are developing the app again from scratch.",
             "content": "We've decided to redevelop the NEXUS app from scratch, moving to the major version 3.0. There are many reasons for this, but it's primarily because it became difficult to continue working with the old codebase. Our goals are to make the app easily extensible, generally lighter, and faster."

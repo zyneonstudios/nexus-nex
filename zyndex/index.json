@@ -1,7 +1,7 @@
 {
   "name": "NEX",
   "url": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
-  "owner": "Zyneon Nexus",
+  "owner": "Zyneon Apex",
   "instances": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/latest.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",

@@ -3,7 +3,7 @@
     "info": {
       "authors": [
         "Zyneon Studios",
-        "Zyneon Nexus"
+        "Zyneon Apex"
       ],
       "summary": "Create, install and manage Minecraft instances.\nThis module is an unofficial 3rd party Minecraft launcher with inbuilt modloader, Modrinth and CurseForge support!",
       "name": "Minecraft",
@@ -14,7 +14,7 @@
       "description": "",
       "download": "https://b.nerotv.live/zyneon/nexus/nex/modules/a-minecraft-module/2024.12.jar",
       "id": "nexus-minecraft-module",
-      "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Nexus and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
+      "infoCard": "<h3 style='color: var(--highlight)'>Disclaimer</h3><p>This is a 3rd-party Minecraft launcher. This module, Zyneon Studios, Zyneon Apex and our products aren't affiliated with Microsoft, Mojang AB, Mojang Studios and; or Minecraft.</p>",
       "infoText": "<a onclick='connector(\\'open.url.https://nexus.zyneonstudios.com\\')'>Website</a>",
       "isHidden": false,
       "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",

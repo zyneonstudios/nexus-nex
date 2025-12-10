@@ -1,3 +1,3 @@
-# NEX (Official Zyndex instance by **Zyneon Nexus**)
+# NEX (Official Zyndex instance by **Zyneon Apex**)
 
 --
