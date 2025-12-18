@@ -9,11 +9,11 @@
       "info": {
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
-        "name": "NEXUS Application, Stable",
-        "version": "2025.8"
+        "name": "NEXUS Application, Experimental",
+        "version": "2026.1-beta.8-pre.2"
       },
       "meta": {
-        "download": "https://www.wolkenspeicher.cloud/index.php/s/qxQBQA7rwNoajZk/download",
+        "download": "https://b.nerotv.live/public/scripts/install/nexus/nexus-app.jar",
         "id": "stable",
         "isHidden": false
       }
