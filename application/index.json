@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2026.1-beta.7"
+        "version": "2026.1-beta.8-pre.2"
       },
       "meta": {
-        "download": "https://github.com/nerotvlive/nexus-app/releases/download/2026.1-beta.7/nexus-app-2026.1-beta.7.jar",
+        "download": "https://b.nerotv.live/public/scripts/install/nexus/nexus-app.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application, Experimental",
-        "version": "2026.1-beta.7"
+        "version": "2026.1-beta.8-pre.2"
       },
       "meta": {
-        "download": "https://github.com/nerotvlive/nexus-app/releases/download/2026.1-beta.7/nexus-app-2026.1-beta.7.jar",
+        "download": "https://b.nerotv.live/public/scripts/install/nexus/nexus-app.jar",
         "id": "old",
         "isHidden": false
       }
