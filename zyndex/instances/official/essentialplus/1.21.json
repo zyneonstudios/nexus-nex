@@ -8,11 +8,11 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ 1.21.11",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2025.12.1f"
+      "version": "2025.12.2"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://www.wolkenspeicher.cloud/index.php/s/yaGWHdeJRp3RzFC/download",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/Y7BzAadK8Tq3rb5/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -31,7 +31,7 @@
       "thumbnail": "https://b.nerotv.live/essentialplus/design/icon/normal.webp"
     },
     "versions": {
-      "fabric": "0.18.2",
+      "fabric": "0.18.3",
       "minecraft": "1.21.11"
     }
   },
