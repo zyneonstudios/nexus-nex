@@ -9,11 +9,11 @@
       "info": {
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
-        "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
+        "name": "NEXUS Application",
+        "version": "BT-26.1-pre.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
         "id": "stable",
         "isHidden": false
       }
@@ -22,11 +22,11 @@
       "info": {
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
-        "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
+        "name": "NEXUS Application",
+        "version": "BT-26.1-pre.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -35,11 +35,11 @@
       "info": {
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
-        "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
+        "name": "NEXUS Application",
+        "version": "BT-26.1-pre.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
         "id": "old",
         "isHidden": false
       }
