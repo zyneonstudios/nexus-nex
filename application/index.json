@@ -10,10 +10,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.1"
+        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.1.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
         "id": "stable",
         "isHidden": false
       }
@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.1"
+        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.1.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application, Experimental",
-        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.1"
+        "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.1.jar",
+        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
         "id": "old",
         "isHidden": false
       }
