@@ -10,10 +10,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application",
-        "version": "BT-26.1-pre.2"
+        "version": "BT-26.0"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
+        "download": "https://maven.nrfy.net/snapshots/org/zyneonstudios/apex/nexus-app-bootstrapper/26.0-ref.1/nexus-app-bootstrapper-26.0-ref.1.jar",
         "id": "stable",
         "isHidden": false
       }
@@ -23,10 +23,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application",
-        "version": "BT-26.1-pre.2"
+        "version": "BT-26.0"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
+        "download": "https://maven.nrfy.net/snapshots/org/zyneonstudios/apex/nexus-app-bootstrapper/26.0-ref.1/nexus-app-bootstrapper-26.0-ref.1.jar",
         "id": "experimental",
         "isHidden": false
       }
@@ -36,10 +36,10 @@
         "author": "Nerofy, Nerofy Network, Zyneon Apex",
         "description": "Zyneon Apex Application",
         "name": "NEXUS Application",
-        "version": "BT-26.1-pre.2"
+        "version": "BT-26.0"
       },
       "meta": {
-        "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
+        "download": "https://maven.nrfy.net/snapshots/org/zyneonstudios/apex/nexus-app-bootstrapper/26.0-ref.1/nexus-app-bootstrapper-26.0-ref.1.jar",
         "id": "old",
         "isHidden": false
       }
