@@ -12,7 +12,7 @@
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://www.wolkenspeicher.cloud/index.php/s/MCq3PQiociWZ4yt/download",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/N694rz2qTY3a7AN/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -26,10 +26,10 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/essentialplus/design/latest.webp",
-      "icon": "https://b.nerotv.live/essentialplus/design/icon/virtual-reality.webp",
-      "logo": "https://b.nerotv.live/essentialplus/design/logo/virtual-reality.webp",
-      "thumbnail": "https://b.nerotv.live/essentialplus/design/icon/virtual-reality.webp"
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/kJRBBX5HN9RZf5C/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/89iFyfP86XfDsJM/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/PykoKpFyrnn4kEG/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/89iFyfP86XfDsJM/download"
     },
     "versions": {
       "fabric": "0.17.2",

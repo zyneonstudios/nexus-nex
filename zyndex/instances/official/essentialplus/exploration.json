@@ -12,7 +12,7 @@
     },
     "meta": {
       "description": "Essential+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
-      "download": "https://www.wolkenspeicher.cloud/index.php/s/H3ZtjH6qgi3Zo7m/download",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/jGR3MHxnkpxb4dm/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -25,10 +25,10 @@
       ]
     },
     "resources": {
-      "background": "https://b.nerotv.live/essentialplus/design/exploration.webp",
-      "icon": "https://b.nerotv.live/essentialplus/design/icon/exploration.webp",
-      "logo": "https://b.nerotv.live/essentialplus/design/logo/exploration.webp",
-      "thumbnail": "https://b.nerotv.live/essentialplus/design/icon/exploration.webp"
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/TZgqdwd3ySSm6R2/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/wQfiTF75Cw8WxHW/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/rNZSmanwYi8M2Xn/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/wQfiTF75Cw8WxHW/download"
     },
     "versions": {
       "fabric": "0.18.4",
