@@ -8,7 +8,7 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ Latest",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2.1.0-pr1"
+      "version": "2.1.0-pr2"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
@@ -31,7 +31,7 @@
       "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/StaJFtSb9onfBkQ/download"
     },
     "versions": {
-      "fabric": "0.18.4",
+      "fabric": "0.18.5",
       "minecraft": "26.1"
     }
   },
