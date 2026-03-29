@@ -6,7 +6,7 @@
         "Zyneon Apex"
       ],
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "name": "Essential+ Latest (Beta)",
+      "name": "Essential+ 26.1",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "version": "2.1.0-pr1"
     },
@@ -16,8 +16,8 @@
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
-      "id": "official/essentialplus/beta",
-      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
+      "id": "official/essentialplus/26-1",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/26.1.json",
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": [
         "essentialplus",
@@ -25,10 +25,10 @@
       ]
     },
     "resources": {
-      "background": "https://www.wolkenspeicher.cloud/index.php/s/oHszW4p6zeEfqcf/download",
-      "icon": "https://www.wolkenspeicher.cloud/index.php/s/StaJFtSb9onfBkQ/download",
-      "logo": "https://www.wolkenspeicher.cloud/index.php/s/CcLW6k7R4nesCPj/download",
-      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/StaJFtSb9onfBkQ/download"
+      "background": "https://www.wolkenspeicher.cloud/index.php/s/6BpbCQiDRz8ExQr/download",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/C3xpsM3y25AdWEW/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/ALzckQBeF7c3Qf2/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/C3xpsM3y25AdWEW/download"
     },
     "versions": {
       "fabric": "0.18.4",
