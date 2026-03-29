@@ -8,11 +8,11 @@
       "name": "Essential+ Exploration",
       "description": "Essential+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2.0.0-ex.2"
+      "version": "2.1.0-pr2"
     },
     "meta": {
       "description": "Essential+ Exploration allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. It comes with some new transitions and exploration tweaks. You can also easily invite friends to your worlds and play together!",
-      "download": "https://www.wolkenspeicher.cloud/index.php/s/jGR3MHxnkpxb4dm/download",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/TYzHkfxfZMZAYtX/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -31,8 +31,8 @@
       "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/wQfiTF75Cw8WxHW/download"
     },
     "versions": {
-      "fabric": "0.18.4",
-      "minecraft": "1.21.11"
+      "fabric": "0.18.5",
+      "minecraft": "26.1"
     }
   },
   "scheme": "2024.7"
