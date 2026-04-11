@@ -8,11 +8,11 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ VR",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2.2.0-vr.2"
+      "version": "2025.11-vr-f3"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "download": "https://www.wolkenspeicher.cloud/index.php/s/RPRpsBqBNYzKCQJ/download",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/N694rz2qTY3a7AN/download",
       "isEditable": false,
       "isHidden": false,
       "forceUpdates": true,
@@ -32,8 +32,8 @@
       "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/89iFyfP86XfDsJM/download"
     },
     "versions": {
-      "fabric": "0.19.1",
-      "minecraft": "26.1.2"
+      "fabric": "0.17.2",
+      "minecraft": "1.21.10"
     }
   },
   "scheme": "2024.7"
