@@ -8,7 +8,7 @@
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
       "name": "Essential+ 1.17.1",
       "summary": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
-      "version": "2024.9.1"
+      "version": "2024.9.1-f1"
     },
     "meta": {
       "description": "Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
@@ -25,7 +25,7 @@
       ]
     },
     "resources": {
-      "background": "https://www.wolkenspeicher.cloud/index.php/s/xBTdZfiZ3RcySYG/download",
+      "background": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/background.webp",
       "icon": "https://www.wolkenspeicher.cloud/index.php/s/C3xpsM3y25AdWEW/download",
       "logo": "https://www.wolkenspeicher.cloud/index.php/s/ALzckQBeF7c3Qf2/download",
       "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/C3xpsM3y25AdWEW/download"
