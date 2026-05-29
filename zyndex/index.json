@@ -16,7 +16,8 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.17.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/1.16.json",
 
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json"
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/cinematica.json",
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/cinematica4.json"
 
   ],
   "instances_inactive": [
@@ -34,8 +35,7 @@
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projectz3-zyneon.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp-lite.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json",
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/frozen.json"
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/slemm.json"
   ],
   "modules": [
     "https://zyneonstudios.github.io/nexus-nex/zyndex/modules/official/nexus-minecraft-module.json",
