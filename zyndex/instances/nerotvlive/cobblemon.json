@@ -1,0 +1,29 @@
+{
+  "instance": {
+    "info": {
+      "author": "nerotvlive",
+      "authors": ["nerotvlive"],
+      "description": "Cobblemon NEXUS App Port + Zoom Mod",
+      "name": "Cobblemon",
+      "version": "2026.6.11",
+      "summary": "Cobblemon NEXUS App Port + Zoom Mod"
+    },
+    "meta": {
+      "description": "Cobblemon NEXUS App Port + Zoom Mod",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/BmZfkjZCLi3wNGd/download",
+      "id": "cobblemon",
+      "isEditable": true,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/nerotvlive/cobblemon.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": []
+    },
+    "resources": {},
+    "versions": {
+      "forge": "0.18.4",
+      "minecraft": "1.21.1"
+    }
+  },
+  "scheme": "2024.7"
+}
