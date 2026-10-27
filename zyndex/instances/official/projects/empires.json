@@ -1,0 +1,30 @@
+{
+  "instance": {
+    "info": {
+      "authors": [
+        "Zyneon Projects",
+        "nerotvlive"
+      ],
+      "name": "Empires",
+      "summary": "Next Gen Zyneon",
+      "version": "0.2-2026.9.7.1"
+    },
+    "meta": {
+      "description": "Next Gen Zyneon",
+      "download": "https://b.nerotv.live/empires.zip",
+      "id": "official/projects/empires",
+      "isEditable": false,
+      "isHidden": true,
+      "forceUpdates": true,
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/projects/empires.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": []
+    },
+    "resources": {},
+    "versions": {
+      "minecraft": "1.21.1",
+      "neoforge": "21.1.249"
+    }
+  },
+  "scheme": "2024.7"
+}
