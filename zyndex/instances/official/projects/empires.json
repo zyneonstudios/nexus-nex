@@ -14,7 +14,7 @@
     "meta": {
       "description": "Next Gen Zyneon",
       "download": "https://b.nerotv.live/empires.zip",
-      "id": "empires",
+      "id": "official/projects/empires",
       "isEditable": false,
       "isHidden": true,
       "forceUpdates": true,
@@ -22,7 +22,12 @@
       "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
       "tags": []
     },
-    "resources": {},
+    "resources": {
+      "background": "https://b.nerotv.live/empires.png",
+      "icon": "https://b.nerotv.live/empires.png",
+      "logo": "https://b.nerotv.live/empires.png",
+      "thumbnail": "https://b.nerotv.live/empires.png"
+    },
     "versions": {
       "minecraft": "1.21.1",
       "neoforge": "21.1.249"
