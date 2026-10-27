@@ -1,10 +1,12 @@
 {
   "instance": {
     "info": {
+      "author": "Zyneon Projects, nerotvlive",
       "authors": [
         "Zyneon Projects",
         "nerotvlive"
       ],
+      "description": "Next Gen Zyneon",
       "name": "Empires",
       "summary": "Next Gen Zyneon",
       "version": "0.2-2026.9.7.1"
@@ -12,7 +14,7 @@
     "meta": {
       "description": "Next Gen Zyneon",
       "download": "https://b.nerotv.live/empires.zip",
-      "id": "official/projects/empires",
+      "id": "empires",
       "isEditable": false,
       "isHidden": true,
       "forceUpdates": true,
