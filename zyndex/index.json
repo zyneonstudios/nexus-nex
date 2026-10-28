@@ -3,6 +3,7 @@
   "url": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
   "owner": "Zyneon Apex",
   "instances": [
+    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vulkan.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/latest.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/exploration.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/26.3.json",
@@ -24,8 +25,6 @@
 
   ],
   "instances_inactive": [
-    "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/beta.json",
-
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-three.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-two.json",
     "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/ukzp/season-one.json",

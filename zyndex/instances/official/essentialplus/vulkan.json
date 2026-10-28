@@ -1,0 +1,40 @@
+{
+  "instance": {
+    "info": {
+      "author": "Zyneon Apex",
+      "authors": [
+        "Zyneon Apex"
+      ],
+      "description": "Essential+ with Vulkan optimization! Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "name": "Essential+ Latest (Vulkan)",
+      "summary": "Essential+ with Vulkan optimization! Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "version": "2.5.0"
+    },
+    "meta": {
+      "description": "Essential+ with Vulkan optimization! Essential+ allows you to play Minecraft with more FPS, shaders, texture features and much more optimized. You can also easily invite friends to your worlds and play together!",
+      "download": "https://www.wolkenspeicher.cloud/index.php/s/4J8pSApzEAiSEH2/download",
+      "isEditable": false,
+      "isHidden": false,
+      "forceUpdates": true,
+      "id": "official/essentialplus/vulkan",
+      "location": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/vulkan.json",
+      "origin": "https://zyneonstudios.github.io/nexus-nex/zyndex/index.json",
+      "tags": [
+        "essentialplus",
+        "optimization",
+        "vulkan"
+      ]
+    },
+    "resources": {
+      "background": "https://zyneonstudios.github.io/nexus-nex/zyndex/instances/official/essentialplus/background.webp",
+      "icon": "https://www.wolkenspeicher.cloud/index.php/s/RDiSQjbtQqeHwS6/download",
+      "logo": "https://www.wolkenspeicher.cloud/index.php/s/rC9xDpBWAR5PGet/download",
+      "thumbnail": "https://www.wolkenspeicher.cloud/index.php/s/RDiSQjbtQqeHwS6/download"
+    },
+    "versions": {
+      "fabric": "0.20.1",
+      "minecraft": "26.3"
+    }
+  },
+  "scheme": "2024.7"
+}
